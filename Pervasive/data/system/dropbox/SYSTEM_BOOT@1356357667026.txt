@@ -1,0 +1,6 @@
+Build: google/passion/passion:2.3.3/GRI40/102588:user/release-keys
+Hardware: buzz
+Bootloader: 0.80.0003
+Radio: unknown
+Kernel: Linux version 2.6.35.14-nFinity (arco@tuxbox) (gcc version 4.4.3 (GCC) ) #1 PREEMPT Wed Feb 1 07:30:53 CET 2012
+

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="was_previous_stationary1" value="false" />
+<boolean name="last_checkin_is_home" value="false" />
+<boolean name="was_previous_stationary0" value="false" />
+<string name="last_checkin_cid">13884626291401853827</string>
+</map>

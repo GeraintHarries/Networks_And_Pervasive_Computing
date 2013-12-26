@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="circle">v.all.circles</string>
+<boolean name="city_level_location" value="false" />
+<boolean name="city_level_sharebox_location" value="false" />
+<boolean name="want_locations" value="true" />
+<boolean name="want_sharebox_locations" value="true" />
+</map>

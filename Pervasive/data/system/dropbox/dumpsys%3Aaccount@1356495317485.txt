@@ -1,0 +1,4 @@
+com.android.exchange,1
+com.google,1
+com.skype.contacts.sync,1
+com.whatsapp,1

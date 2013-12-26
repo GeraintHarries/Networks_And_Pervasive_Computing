@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="reporting_type">automatic</string>
+<boolean name="enable_reporting" value="true" />
+<boolean name="enable_location_sharing" value="true" />
+</map>

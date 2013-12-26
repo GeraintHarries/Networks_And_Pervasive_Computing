@@ -1,0 +1,4 @@
+1356369441544,186,201,am_anr,1922,com.facebook.katana,835140,Broadcast of Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x10000000 cmp=com.facebook.katana/.binding.UploadManagerConnectivity (has extras) }
+1356369907970,186,211,battery_discharge,9774806,50,49
+1356369918780,186,201,am_anr,1946,com.facebook.katana,835140,Broadcast of Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000000 cmp=com.facebook.katana/.service.vault.VaultPowerConnectionReceiver }
+1356369937220,186,201,am_anr,1982,com.facebook.katana,835140,Broadcast of Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x10000000 cmp=com.facebook.katana/.binding.UploadManagerConnectivity (has extras) }

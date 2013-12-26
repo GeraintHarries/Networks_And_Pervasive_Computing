@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="registration_sms_code_length" value="6" />
+<string name="notify_ringtone">content://settings/system/notification_sound</string>
+<int name="logins_with_messages" value="0" />
+<string name="group_notify_tone">content://settings/system/notification_sound</string>
+<int name="participants_size_limit" value="30" />
+<boolean name="show_all_contacts" value="true" />
+<string name="group_notify_vibrate_length">1</string>
+<boolean name="input_enter_send" value="false" />
+<string name="version">2.8.9108</string>
+<int name="registration_state" value="3" />
+<string name="broadcast_notify_tone">content://settings/system/notification_sound</string>
+<int name="registration_account_state" value="0" />
+<boolean name="has_had_background_data_disabled" value="false" />
+<string name="broadcast_notify_vibrate_length">1</string>
+<int name="broadcast_size_limit" value="25" />
+<int name="profile_photo_full_id" value="-1" />
+<string name="push_name">pervasivec</string>
+<string name="notify_light_color">FFFFFF</string>
+<string name="next_ch_data">LTaYUTazwmaE+PFTNoUDNEHk1uw=</string>
+<boolean name="custom_ringtone" value="true" />
+<string name="registration_price">£0.69</string>
+<long name="groups_server_props_last_refresh_time" value="1356522401112" />
+<string name="notify_vibrate_length">1</string>
+<int name="group_number_limit" value="30" />
+<string name="broadcast_notify_popup_mode">0</string>
+<int name="sync_count" value="0" />
+<string name="group_notify_light_color">FFFFFF</string>
+<int name="subject_length_limit" value="25" />
+<int name="registration_voice_code_length" value="6" />
+<boolean name="conversation_sound" value="true" />
+<int name="profile_photo_thumb_id" value="-1" />
+<string name="notify_popup_mode">0</string>
+<string name="group_notify_popup_mode">0</string>
+<null name="registration_code" />
+<string name="registration_failure_reason"></string>
+<string name="broadcast_notify_light_color">FFFFFF</string>
+<string name="ph">7741591070</string>
+<int name="sync_needed" value="0" />
+<int name="contact_version" value="30" />
+<string name="cc">44</string>
+<string name="c2dm_reg_id">APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo</string>
+<string name="interface_font_size">0</string>
+<string name="registration_jid">447741591070</string>
+</map>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="brightness_unit_pref">0</string>
+<float name="pitch_calibrartion_pref" value="0.0" />
+<string name="heading_unit_pref">0</string>
+<int name="versionCode" value="64" />
+<string name="altitude_correction_pref">0</string>
+<boolean name="msl_altitude_pref" value="true" />
+<string name="temperature_unit_pref">0</string>
+<string name="gpsxtra_validity_pref">86400</string>
+<string name="notification_visibility_pref">0</string>
+<boolean name="eula_accepted" value="true" />
+<int name="app_old_mode_pref" value="1" />
+<long name="z_pref" value="0" />
+<float name="geoid_height_pref" value="47.0" />
+<string name="refreshrate2_pref">100</string>
+<boolean name="show_pitch_pref" value="true" />
+<string name="share_template_pref">I am here: %loc% %url%</string>
+<string name="location_format_pref">1</string>
+<boolean name="zerobased_acc_pref" value="true" />
+<boolean name="show_leveling_pref" value="true" />
+<float name="roll_calibrartion_pref" value="0.0" />
+<boolean name="use_gps_speed_pref" value="true" />
+<string name="filter_pref">0.2</string>
+<boolean name="notification_monitor_warning" value="true" />
+<string name="angular_speed_unit_pref">0</string>
+<string name="distance_unit_pref">0</string>
+<string name="theme_pref">Default</string>
+<string name="pitchroll_unit_pref">0</string>
+<string name="pressure_unit_pref">0</string>
+<string name="speed_unit_pref">0</string>
+<int name="last_gpsxtra_download_pref" value="1356358320" />
+</map>

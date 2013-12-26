@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="accept_cookies" value="true" />
+<string name="text_size">NORMAL</string>
+<boolean name="enable_javascript" value="true" />
+<boolean name="show_security_warnings" value="true" />
+<boolean name="autofit_pages" value="true" />
+<string name="default_text_encoding">Latin-1</string>
+<boolean name="privacy_clear_history" value="false" />
+<string name="default_zoom">MEDIUM</string>
+<boolean name="show_zoom_controls" value="true" />
+<boolean name="remember_passwords" value="true" />
+<boolean name="reset_default_preferences" value="false" />
+<boolean name="privacy_clear_passwords" value="false" />
+<boolean name="privacy_clear_cookies" value="false" />
+<boolean name="load_page" value="true" />
+<boolean name="block_popup_windows" value="false" />
+<boolean name="privacy_clear_cache" value="false" />
+<string name="search_engine">google</string>
+<string name="homepage">http://www.google.com/m?client=ms-android-google&amp;source=android-home</string>
+<boolean name="privacy_clear_geolocation_access" value="false" />
+<boolean name="load_images" value="true" />
+<boolean name="enable_geolocation" value="true" />
+<boolean name="save_formdata" value="true" />
+<string name="user_agent">0</string>
+<string name="plugin_state">ON</string>
+<boolean name="privacy_clear_form_data" value="false" />
+<string name="last_read_allow_geolocation_origins">http://www.google.co.uk http://www.google.com</string>
+</map>

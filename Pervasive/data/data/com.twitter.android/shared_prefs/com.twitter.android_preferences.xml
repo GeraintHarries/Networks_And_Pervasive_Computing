@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<long name="log_interval" value="60000" />
+<long name="auto_clean" value="1356353969593" />
+<long name="fft" value="1355938454923" />
+<long name="typeahead_users_ttl" value="172800000" />
+<long name="last_sync" value="1356354704851" />
+<int name="log_crash" value="10" />
+<boolean name="location" value="true" />
+<int name="log_error" value="10" />
+<long name="log_last_flush_request" value="1356354765927" />
+<int name="log_api" value="100" />
+<string name="client_uuid">9a9433cb-c247-400f-9857-1530078f7c8c</string>
+<long name="loc_timeout_t" value="1356353871196" />
+<boolean name="log_enabled" value="true" />
+<long name="find_friends_interval" value="7776000000" />
+</map>

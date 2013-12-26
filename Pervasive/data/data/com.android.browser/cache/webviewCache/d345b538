@@ -1,0 +1,51 @@
+// Geolocation detection with JavaScript, HTML5 and PHP
+// http://locationdetection.mobi/
+// Andy Moore
+// http://andymoore.info/
+// this is linkware if you use it please link to me:
+// <a href="http://web2txt.co.uk/">Mp3 Downloads</a>
+
+// this is called when the browser has shown support of navigator.geolocation
+function GEOprocess(position) {
+	// update the page to show we have the lat and long and explain what we do next
+  document.getElementById('geo').innerHTML = '<p style="text-align:center;">Latitude: <b style="color:white;">' + position.coords.latitude + '<\/b> Longitude: <b style="color:white;">' + position.coords.longitude + '<\/b><br \/><img style="margin-top:20px;" src="loading.gif" alt="Reverse geocoding."\/><\/p>';
+	// now we send this data to the php script behind the scenes with the GEOajax function
+	GEOajax("?accuracy=" + position.coords.accuracy + "&latlng=" + position.coords.latitude + "," + position.coords.longitude +"&altitude="+position.coords.altitude+"&altitude_accuracy="+position.coords.altitudeAccuracy+"&heading="+position.coords.heading+"&speed="+position.coords.speed+"");
+}
+
+// this is used when the visitor bottles it and hits the "Don't Share" option
+function GEOdeclined(error) {
+  document.getElementById('geo').innerHTML = '<h2 style="color:white; padding-top:15px;">' + error.message + '<\/h2><p style="text-align:center;">The Geolocation API returned an error that says: "' + error.message + '"<br \/>Why not try our <a href="#" onclick="GEOajax(\'?latlng=38.897605896,-77.0365219116\'); return false;" style="color:white;">The White House Demo</a><\/p>';
+}
+
+if (navigator.geolocation) {
+  document.getElementById('geo').innerHTML = '<h2 style="color:white; padding-top:15px; padding-bottom:15px;">Your browser claims support for navigator.geolocation<\/h2>';
+	navigator.geolocation.getCurrentPosition(GEOprocess, GEOdeclined);
+}else{
+  document.getElementById('geo').innerHTML = '<h2 style="color:white; padding-top:15px;">Step out of the stone age and upgrade your browser!<\/h2><p>It appears you need to <b style="color:white;">upgrade to a better browser<\/b>!<\/p><p><a href="http://www.google.com/chrome"><img src="chrome.png" style="margin-right:50px;margin-top:20px;margin-bottom:15px;" alt="Download Chrome" \/><\/a><a href="http://getfirefox.com/"><img src="firefox.png" style="margin-right:50px;margin-top:20px;margin-bottom:15px;" alt="Download Firefox" \/><\/a><a href="http://www.apple.com/safari/download/"><img src="safari.png" style="margin-top:20px;margin-bottom:15px;" alt="Download Safari" \/><\/a><\/p>';
+}
+
+// this checks if the browser supports XML HTTP Requests and if so which method
+if (window.XMLHttpRequest) {
+ xmlHttp = new XMLHttpRequest();
+}else if(window.ActiveXObject){
+ xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+}
+
+// this calls the php script with the data we have collected from the geolocation lookup
+function GEOajax(url) {
+// alert(url);
+ xmlHttp.open("GET", url, true);
+ xmlHttp.onreadystatechange = updatePage;
+ xmlHttp.send(null);
+}
+
+// this reads the response from the php script and updates the page with it's output
+function updatePage() {
+ if (xmlHttp.readyState == 4) {
+  var response = xmlHttp.responseText;
+  // <h2>Congratulations, you\'ve been geolocated!</h2><p>This is the information I was able to get about where you are:<hr \/><\/p>
+  document.getElementById("geo").innerHTML = '' + response;
+ }
+}
+

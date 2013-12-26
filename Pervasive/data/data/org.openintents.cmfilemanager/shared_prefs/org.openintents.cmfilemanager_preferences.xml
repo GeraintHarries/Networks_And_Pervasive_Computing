@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="org.openintents.cmfilemanager.version_number_check" value="17" />
+<boolean name="eula_accepted" value="true" />
+</map>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="0.iu_videos_wifi_only" value="true" />
+<boolean name="0.iu_oob_completed" value="true" />
+<boolean name="0.is_plus_page" value="false" />
+<int name="count" value="1" />
+<string name="0.gaia_id">101002072995463170786</string>
+<boolean name="visited_oob" value="true" />
+<boolean name="0.settings_synced" value="true" />
+<boolean name="0.location_dialog" value="true" />
+<int name="last_active" value="0" />
+<boolean name="0.iu_enabled" value="true" />
+<boolean name="0.contacts_oob_completed" value="true" />
+<string name="pervasivec@gmail.com.flags">{&quot;flags&quot;:[{&quot;flagId&quot;:&quot;2dab999b&quot;},{&quot;flagId&quot;:&quot;1128676a&quot;}]}</string>
+<boolean name="0.contacts_stats_sync" value="true" />
+<boolean name="0.iu_photos_wifi_only" value="true" />
+<long name="0.cleanup_timestamp" value="1356498746212" />
+<string name="0.account_name">pervasivec@gmail.com</string>
+<string name="0.display_name">Per Heinz</string>
+<long name="0.warm_welcome_ts" value="1356366954128" />
+<int name="active_account" value="0" />
+<boolean name="0.is_child" value="false" />
+</map>

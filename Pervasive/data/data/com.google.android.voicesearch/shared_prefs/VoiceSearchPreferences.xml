@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="experimentHelpBubbleHelpViewed" value="2" />
+<boolean name="showFirstRunDialog" value="false" />
+<int name="pref-voice-personalization-status" value="1" />
+<string name="alternate_backoff_languages">af:af-ZA af-NA:af-ZA ar:ar-EG ar-BH:ar-QA ar-LY:ar-EG ar-OM:ar-AE ar-PS:ar-IL bg:bg-BG ca:ca-ES ca-AD:ca-ES cs:cs-CZ de:de-DE de-AT:de-DE de-CH:de-DE de-LI:de-DE en:en-001 en-IE:en-GB en-SG:en-001 en-UK:en-GB es:es-ES fi:fi-FI fr:fr-FR fr-BE:fr-FR fr-CA:fr-FR fr-CH:fr-FR gl:gl-ES he:iw-IL he-IL:iw-IL hu:hu-HU id:id-ID in:id-ID in-ID:id-ID is:is-IS it:it-IT it-CH:it-IT iw:iw-IL ja:ja-JP ko:ko-KR ms:ms-MY ms-BN:ms-MY ms-SG:ms-MY nb:nb-NO nl:nl-NL nl-BE:nl-NL no:nb-NO no-NO:nb-NO pl:pl-PL pt:pt-BR pt-AO:pt-BR ro:ro-RO ro-MD:ro-RO ru:ru-RU ru-UA:ru-RU sk:sk-SK sr:sr-Cyrl-RS sr-BA:sr-Cyrl-RS sr-ME:sr-Cyrl-RS sr-RS:sr-Cyrl-RS sr-XK:sr-Cyrl-RS sv:sv-SE sv-FI:sv-SE tr:tr-TR zh:cmn-Hans-CN zh-CN:cmn-Hans-CN zh-HK:yue-Hant-HK zh-MO:yue-Hant-HK zh-SG:cmn-Hans-CN zh-TW:cmn-Hant-TW zu:zu-ZA</string>
+<string name="supported_languages">af-ZA ar-EG ar-IL ar-JO ar-KW ar-LB ar-QA ar-SA ar-AE bg-BG ca-ES cmn-Hans-CN cmn-Hans-HK cmn-Hant-TW yue-Hant-HK cs-CZ nl-NL en-AU en-CA en-IN en-NZ en-ZA en-GB en-US en-001 fi-FI fr-FR gl-ES de-DE iw-IL hu-HU is-IS id-ID zu-ZA it-IT ja-JP ko-KR ms-MY nb-NO pl-PL pt-BR pt-PT ro-RO ru-RU sr-Cyrl-RS sk-SK es-AR es-BO es-CL es-CO es-CR es-DO es-EC es-SV es-GT es-HN es-MX es-NI es-PA es-PY es-PE es-PR es-ES es-US es-UY es-VE sv-SE tr-TR Euskara Latin</string>
+<boolean name="showHintsOnSearch" value="true" />
+<string name="last_known_device_language">en-GB</string>
+<string name="actual_language_setting">en-GB</string>
+</map>

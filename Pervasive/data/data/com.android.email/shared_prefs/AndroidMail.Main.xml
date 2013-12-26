@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.accountColor" value="0" />
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.ringtone">content://settings/system/notification_sound</string>
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.senderUri">ZWFzK3NzbCt0cnVzdGFsbGNlcnRzOi8vcGVydmFzaXZlYyU0MGxpdmUuY29tOnN1bjFzaGluZUBtLmhvdG1haWwuY29tOjA=</string>
+<int name="oneTimeInitializationProgress" value="1" />
+<string name="accountUuids">4355af2e-cc5e-4e85-af3f-8525a3054ca1</string>
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.name"></string>
+<boolean name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.vibrate" value="false" />
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.signature" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.securityFlags" value="0" />
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.trashFolderName" />
+<long name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.lastAutomaticCheckTime" value="0" />
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.localStoreUri">local://localhost//data/data/com.android.email/databases/cbd147c3-ce16-4983-8390-0b9044bc984e.db</string>
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.draftsFolderName" />
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.protocolVersion" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.deletePolicy" value="2" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.accountNumber" value="0" />
+<boolean name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.vibrateWhenSilent" value="false" />
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.outboxFolderName" />
+<boolean name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.notifyNewMail" value="true" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.automaticCheckIntervalMinutes" value="-2" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.syncWindow" value="2" />
+<int name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.backupFlags" value="15" />
+<null name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.sentFolderName" />
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.description">pervasivec@live.com</string>
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.email">pervasivec@live.com</string>
+<string name="4355af2e-cc5e-4e85-af3f-8525a3054ca1.storeUri">ZWFzK3NzbCt0cnVzdGFsbGNlcnRzOi8vcGVydmFzaXZlYyU0MGxpdmUuY29tOnN1bjFzaGluZUBtLmhvdG1haWwuY29tOjA=</string>
+</map>

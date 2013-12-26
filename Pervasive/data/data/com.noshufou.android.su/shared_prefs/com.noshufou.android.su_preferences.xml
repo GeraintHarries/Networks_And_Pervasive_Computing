@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="permissions_dirty" value="false" />
+<boolean name="last_remember_value" value="true" />
+<int name="clean_permissions_attempt" value="0" />
+<int name="last_notification_uid" value="10035" />
+<long name="last_notification_time" value="1355937094022" />
+</map>

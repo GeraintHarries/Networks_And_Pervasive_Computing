@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="finished_sync" value="true" />
+<int name="seq" value="104" />
+<int name="sync_state" value="4" />
+</map>

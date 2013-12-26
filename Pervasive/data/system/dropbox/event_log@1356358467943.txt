@@ -1,0 +1,7 @@
+1356357634788,0,0,event_log_start
+1356357634788,186,200,free_storage_left,40738816,141193216,40292352
+1356357677199,314,314,system_update,512,0,-1,NULL
+1356357696608,314,314,system_update,512,0,-1,NULL
+1356357961897,314,314,location_controller,2
+1356358316753,186,201,am_anr,1038,com.google.android.apps.plus,835140,Broadcast of Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.eclipsim.gpsstatus2 flg=0x10000000 cmp=com.google.android.apps.plus/.service.PackagesMediaMonitor (has extras) }
+1356358355201,186,217,am_anr,1215,com.eclipsim.gpsstatus2,572996,keyDispatchingTimedOut

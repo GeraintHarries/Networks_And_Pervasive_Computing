@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<long name="onServerExpirationTime" value="1356542637756" />
+<int name="backoff_ms" value="3000" />
+<boolean name="onServer" value="true" />
+<int name="appVersion" value="8016010" />
+<string name="regId">APA91bFiO00hoNR2fBVrm5GlVLqfSfN7Tk1TtkY3je-mxmJaQXBt7qfz1qE4cXZJtQkd57ebGvzhTS3obtRHtDETW4nN0-K4KcqYS0aPx-pFaEOb3B967FlfhEyKNS00RNcgy3Kd5khtYvCy056mtwQu0JM1SCJprA</string>
+</map>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="iu.first_time_full_size_shown" value="true" />
+<long name="media_scanner.phoneStorage.photo.last_media_id" value="0" />
+<string name="com.google.android.apps.circles.realtimechat.ACL">ACL_SETTING_ANYONE</string>
+<string name="hangout_dingtone_1">content://media/external/audio/media/3</string>
+<boolean name="iu.received_low_quota" value="false" />
+<long name="media_scanner.external.photo.last_media_id" value="18" />
+<string name="system_release">2.3.7</string>
+<long name="media_scanner.phoneStorage.video.last_media_id" value="0" />
+<string name="hangout_ringtone_1">content://media/external/audio/media/4</string>
+<boolean name="media_scanner.has_run" value="true" />
+<long name="media_scanner.external.video.last_media_id" value="0" />
+<boolean name="iu.received_no_quota" value="false" />
+<int name="external_storage_fsid" value="-278914845" />
+</map>

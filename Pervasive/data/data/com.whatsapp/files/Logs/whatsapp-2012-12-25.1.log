@@ -1,0 +1,1293 @@
+2012-12-24 11:22:44.435 I: ==== logfile level=3 tz=0 ====
+2012-12-24 11:22:44.443 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-24 11:22:44.509 I: app/permissions/com.whatsapp w=true
+2012-12-24 11:22:44.515 I: app/permissions/files w=true
+2012-12-24 11:22:44.520 I: app/permissions/Logs w=true
+2012-12-24 11:22:44.525 I: app/permissions/databases w=false
+2012-12-24 11:22:44.529 I: app/permissions/databases set w=false
+2012-12-24 11:22:44.579 I: app/proccesses/proc 4465 28
+2012-12-24 11:22:44.584 I: app/processes/procinfo com.whatsapp 4465 100
+2012-12-24 11:22:44.595 I: app/processes/proc/self com.whatsapp 100 0 ?
+2012-12-24 11:22:44.669 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: DISCONNECTED/DISCONNECTED, reason: apnFailed, extra: wap.vodafone.co.uk, roaming: false, failover: true, isAvailable: false, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 5, subtype: 8
+2012-12-24 11:22:44.780 I: app/loadme
+2012-12-24 11:22:44.859 I: statistics Text Messages: 0 sent, 0 received / Media Messages: 0 sent (0 bytes), 0 received (0 bytes) / Offline Messages: 0 received (0 msec average delay) / Message Service: 0 bytes sent, 0 bytes received / Cold Sync: 0 bytes sent, 0 bytes received / Total Data: 0 bytes sent, 0 bytes received
+2012-12-24 11:22:44.873 I: app/internalstorage/avail 51.89MB
+2012-12-24 13:21:21.080 I: ==== logfile level=3 tz=0 ====
+2012-12-24 13:21:21.103 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-24 13:21:21.116 I: app/permissions/com.whatsapp w=true
+2012-12-24 13:21:21.131 I: app/permissions/files w=true
+2012-12-24 13:21:21.135 I: app/permissions/Logs w=true
+2012-12-24 13:21:21.140 I: app/permissions/databases w=false
+2012-12-24 13:21:21.144 I: app/permissions/databases set w=false
+2012-12-24 13:21:21.186 I: app/proccesses/proc 7338 26
+2012-12-24 13:21:21.190 I: app/processes/procinfo com.whatsapp 7338 100
+2012-12-24 13:21:21.195 I: app/processes/proc/self com.whatsapp 100 0 ?
+2012-12-24 13:21:21.221 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 13:21:21.237 I: app/loadme
+2012-12-24 13:21:21.259 I: statistics Text Messages: 0 sent, 0 received / Media Messages: 0 sent (0 bytes), 0 received (0 bytes) / Offline Messages: 0 received (0 msec average delay) / Message Service: 0 bytes sent, 0 bytes received / Cold Sync: 0 bytes sent, 0 bytes received / Total Data: 0 bytes sent, 0 bytes received
+2012-12-24 13:21:21.284 I: app/internalstorage/avail 43.96MB
+2012-12-24 13:21:21.812 I: app/init/writable-media
+2012-12-24 13:21:21.859 I: app/init/timer/stop: 571
+2012-12-24 13:21:22.118 I: groupchat/observer/registered:7338
+2012-12-24 13:21:22.566 I: app/alarm/rotate-logs/start Tue Dec 25 00:00:00 GMT 2012
+2012-12-24 13:21:22.630 I: app/alarm/reportsync/start Tue Dec 25 10:00:00 GMT 2012
+2012-12-24 13:21:22.671 I: app/setting/background-data true
+2012-12-24 13:21:22.677 I: app/allcontacts/false
+2012-12-24 13:21:22.892 I: file_counter:1 | last_gen_time:Thu Jan 01 01:00:00 GMT 1970 |  time:4 | total:0
+2012-12-24 13:21:22.942 I: app/custom-rom null
+2012-12-24 13:21:22.969 I: app/dly 0000
+2012-12-24 13:21:24.350 I: app/loadloginfailed/none
+2012-12-24 13:21:24.357 I: app/create/timer/stop: 3422
+2012-12-24 13:21:24.434 I: main/create
+2012-12-24 13:21:24.728 I: phone/state idle
+2012-12-24 13:21:24.766 I: device/background-data/enabled true
+2012-12-24 13:21:24.848 I: eula/create
+2012-12-24 13:21:26.188 I: device/memory private_dirty=4564kB pss=8881kB shared_dirty=12052kB
+2012-12-24 13:21:27.490 I: device/memory processes=26 total=229145
+2012-12-24 13:21:27.550 I: device/battery level=76% health=2 plugged=0
+2012-12-24 13:21:27.651 I: device/memory/system/available 76.12MB (24.00MB) lowMemory=false
+2012-12-24 13:21:27.703 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 13:21:27.707 I: device/memory/native/size 7212 kB/allocated 7203 kB/free 8 kB
+2012-12-24 13:21:27.725 I: device/memory/dalvik/size 6535 kB/allocated 3587 kB/free 2948 kB
+2012-12-24 13:21:27.729 I: device/memory/available 21976 kB
+2012-12-24 13:21:30.357 I: register/eula/accept
+2012-12-24 13:21:30.513 I: register/phone/onCreate()
+2012-12-24 13:21:30.523 I: verifynumber/phone_type 1
+2012-12-24 13:21:30.735 I: register/phone/reset-state
+2012-12-24 13:21:31.365 I: register/phone/country:United Kingdom | GB
+2012-12-24 13:21:34.488 I: register/phone/resume 7
+2012-12-24 13:21:34.515 I: verifynumber/service-state/operator-alpha-long vodafone UK
+2012-12-24 13:21:34.520 I: verifynumber/service-state/operator-alpha-short (N/A)
+2012-12-24 13:21:34.524 I: verifynumber/service-state/operator-numeric 23415
+2012-12-24 13:21:34.529 I: verifynumber/service-state/roaming false
+2012-12-24 13:21:34.535 I: verifynumber/service-state/state 0
+2012-12-24 13:22:30.537 I: register/phone/pause 7
+2012-12-24 13:22:45.496 I: app/presenceavailable/timeout
+2012-12-24 13:23:43.505 I: register/phone/country:United Kingdom | GB
+2012-12-24 13:23:43.685 I: register/phone/resume 7
+2012-12-24 13:24:00.081 I: register/phone/cc=44/number=7741591070
+2012-12-24 13:24:00.086 I: register/phone/checkforreinstall
+2012-12-24 13:24:00.176 I: register/phone/reset-state
+2012-12-24 13:24:04.040 I: register/phone/new-installation
+2012-12-24 13:24:12.150 I: register/phone/pause 14
+2012-12-24 13:24:12.476 I: verifysms/create
+2012-12-24 13:24:12.483 I: verifynumber/phone_type 1
+2012-12-24 13:24:13.089 I: verifysms/resume 0
+2012-12-24 13:24:13.219 I: verifynumber/network/8
+2012-12-24 13:24:13.238 I: verifynumber/network/name=vodafone UK/code=23415
+2012-12-24 13:24:13.243 I: verifynumber/config 234 15
+2012-12-24 13:24:13.311 I: verifynumber/simop 23415
+2012-12-24 13:24:13.350 I: verifysms/send/+447741591070
+2012-12-24 13:24:13.504 I: verifysms/challenge/sent 1356355453504
+2012-12-24 13:24:13.522 I: register/phone/onDestroy()
+2012-12-24 13:24:13.552 I: verifynumber/service-state/operator-alpha-long vodafone UK
+2012-12-24 13:24:13.557 I: verifynumber/service-state/operator-alpha-short (N/A)
+2012-12-24 13:24:13.562 I: verifynumber/service-state/operator-numeric 23415
+2012-12-24 13:24:13.569 I: verifynumber/service-state/roaming false
+2012-12-24 13:24:13.576 I: verifynumber/service-state/state 0
+2012-12-24 13:24:15.819 I: verifysms/sent-receiver/intent
+2012-12-24 13:24:15.824 I: verifysms/sent-receiver/result 1
+2012-12-24 13:24:15.832 I: verifysms/sent-receiver/error 500
+2012-12-24 13:24:15.836 W: verifysms/unsent
+2012-12-24 13:24:15.893 I: verifysms/request-sms
+2012-12-24 13:24:15.994 I: verifysms/request s
+2012-12-24 13:24:22.354 I: verifysms/received-receiver/text/intent
+2012-12-24 13:24:22.363 I: verifysms/received-receiver/pdus-length/1
+2012-12-24 13:24:22.450 I: verifysms/getMessageBody WhatsApp code 801-678
+2012-12-24 13:24:22.454 I: verifysms/displayMessageBody WhatsApp code 801-678
+2012-12-24 13:24:22.460 I: verifysms/displayOriginatingAddress WhatsApp
+2012-12-24 13:24:22.465 I: verifysms/emailBody null
+2012-12-24 13:24:22.469 I: verifysms/emailFrom null
+2012-12-24 13:24:22.474 I: verifysms/getOriginatingAddress WhatsApp
+2012-12-24 13:24:22.480 I: verifysms/getPseudoSubject 
+2012-12-24 13:24:22.484 I: verifysms/getServiceCenterAddress +447802000332
+2012-12-24 13:24:22.488 I: verifysms/text-receiver/WhatsApp code 801-678
+2012-12-24 13:24:22.536 I: verifysms/verifysms
+2012-12-24 13:24:24.036 I: verifysms/verifysms/verified
+2012-12-24 13:24:24.117 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-24 13:24:24.255 I: verifysms/pause 0
+2012-12-24 13:24:24.476 I: registername/create
+2012-12-24 13:24:25.093 I: msgstore/checkhealth
+2012-12-24 13:24:25.102 I: msgstore/checkhealth/journal/delete false
+2012-12-24 13:24:25.107 I: msgstore/checkhealth/back/delete false
+2012-12-24 13:24:25.114 I: msgstore/checkdb
+2012-12-24 13:24:25.124 I: msgstore/checkdb/nodb
+2012-12-24 13:24:25.130 I: registername/clicked/sdcardstate mounted
+2012-12-24 13:24:25.145 I: verifymsgstore/usehistoryifexists/backupfilesfound 0
+2012-12-24 13:24:25.160 I: verifymsgstore/dialog/setup
+2012-12-24 13:24:25.333 I: registername/resume
+2012-12-24 13:24:26.151 I: verifysms/destroy
+2012-12-24 13:24:26.151 I: msgstore/initialize
+2012-12-24 13:24:27.709 I: msgstore/setup
+2012-12-24 13:24:27.868 I: msgstore/checkdb
+2012-12-24 13:24:27.873 I: msgstore/checkdb/nodb
+2012-12-24 13:24:27.889 I: msgstore/getwritabledb doesn't exist
+2012-12-24 13:24:28.154 I: msgstore/create 
+2012-12-24 13:24:28.348 I: msgstore/getwritabledb/done/list msgstore.db 8192
+2012-12-24 13:24:28.355 I: msgstore/preparestatements
+2012-12-24 13:24:28.412 I: msgstore/finish
+2012-12-24 13:24:28.416 I: msgstore/initialize/lastmsgs
+2012-12-24 13:24:28.426 I: msgstore/initialize/lastmsgs 0
+2012-12-24 13:24:28.433 I: msgstore/getAllGroupActionMessages
+2012-12-24 13:24:28.447 I: msgstore/asyncthread/started
+2012-12-24 13:24:28.455 I: verifymsgstore/success
+2012-12-24 13:24:28.479 I: app/alarm/dbbackup/start Tue Dec 25 04:00:00 GMT 2012
+2012-12-24 13:24:28.575 I: registername/set_dirty
+2012-12-24 13:24:28.590 I: xmpp/service/bind
+2012-12-24 13:24:28.622 I: xmpp/service/reset-registered/updateparams
+2012-12-24 13:24:28.692 I: app/sendGetProfilePhoto(message_service_NOT_ready) photo_id:0 type:2 jid:447741591070@s.whatsapp.net
+2012-12-24 13:24:28.875 I: xmpp/service/create
+2012-12-24 13:24:28.938 I: xmpp/service/start
+2012-12-24 13:24:29.103 I: msgqueuer/set true
+2012-12-24 13:24:29.189 I: xmpp/connection/recv/writer_thread_ready
+2012-12-24 13:24:29.245 I: xmpp/connection/recv/connect
+2012-12-24 13:24:29.270 I: xmpp/service/network/notice type=wifi state=connected connected=true available=true
+2012-12-24 13:24:29.275 I: xmpp/connection/connect
+2012-12-24 13:24:29.275 I: xmpp/service/network/active type=wifi state=connected connected=true available=true
+2012-12-24 13:24:29.290 I: xmpp/service/ready
+2012-12-24 13:24:29.294 I: xmpp/service/ready/group_sync_required
+2012-12-24 13:24:29.301 W: app/sendGetGroups
+2012-12-24 13:24:29.305 W: app/sendGetGroupProps
+2012-12-24 13:24:29.312 I: xmpp/service/ready/send thumb requests: 1
+2012-12-24 13:24:29.338 I: xmpp/connection/socket/connecting c3.whatsapp.net./50.22.231.50:443
+2012-12-24 13:24:29.355 I: xmpp/service/logout-timer/reset
+2012-12-24 13:24:29.361 I: xmpp/service/back_off/reset
+2012-12-24 13:24:29.388 I: xmpp/service/logout-timer/reset
+2012-12-24 13:24:29.395 I: xmpp/service/back_off/reset
+2012-12-24 13:24:29.454 I: xmpp/connection/socket/connected
+2012-12-24 13:24:29.905 I: xmpp/connection/login
+2012-12-24 13:24:29.923 I: xmpp/service/login/timeout/start
+2012-12-24 13:24:30.554 I: xmpp/connection/write/blocklist/get
+2012-12-24 13:24:30.570 I: xmpp/service/login/timeout/stop
+2012-12-24 13:24:30.583 I: xmpp/connection/write/client_config/get
+2012-12-24 13:24:30.611 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-24 13:24:30.691 I: xmpp/writer/recv/connected
+2012-12-24 13:24:30.696 I: xmpp/service/keepalive/start
+2012-12-24 13:24:30.705 I: msgqueuer/stop
+2012-12-24 13:24:30.710 E: xmppmsg/send/group/get-group:
+2012-12-24 13:24:30.721 E: onDirty/table size:0
+2012-12-24 13:24:30.734 E: xmpp/writer/write/send-get-groups
+2012-12-24 13:24:30.734 I: xmpp/reader/read/presence/available 447741591070@s.whatsapp.net
+2012-12-24 13:24:30.749 I: xmpp/reader/read/blocklist/clear
+2012-12-24 13:24:30.773 E: xmpp/writer/write/get-group-propsnull
+2012-12-24 13:24:30.721 I: xmpp/service/back_off/reset
+2012-12-24 13:24:30.764 I: xmpp/reader/read/client_config
+2012-12-24 13:24:30.874 I: xmpp/service/ping/reset
+2012-12-24 13:24:30.889 I: xmpp/service/ping/reset
+2012-12-24 13:24:30.896 I: xmpp/service/ping/reset
+2012-12-24 13:24:30.902 I: xmpp/service/ping/reset
+2012-12-24 13:24:30.908 I: app/xmpp/recv/handle_available 447741591070@s.whatsapp.net true
+2012-12-24 13:24:30.995 I: groupmgr/onServerProperties
+2012-12-24 13:24:31.000 I: groupmgr/onServerProperties/max_subject:25
+2012-12-24 13:24:31.004 I: c2dm/registration/saved null
+2012-12-24 13:24:31.004 I: groupmgr/onServerProperties/max_groups:30
+2012-12-24 13:24:31.013 I: groupmgr/onServerProperties/max_participants:31
+2012-12-24 13:24:31.026 I: groupmgr/onServerProperties/timeout:300
+2012-12-24 13:24:31.022 I: c2dm/registration/request
+2012-12-24 13:24:31.030 I: groupmgr/onServerProperties/broadcast:25
+2012-12-24 13:24:31.159 I: xmpp/reader/read/profilephotoreceived 447741591070@s.whatsapp.net id:null type:null has_data:false
+2012-12-24 13:24:31.202 I: groupmgr/onParticipatingGroups/[]
+2012-12-24 13:24:31.184 I: xmpp/service/ping/reset
+2012-12-24 13:24:31.206 W: app/sendClearDirty
+2012-12-24 13:24:31.272 I: xmppmsg/send/group/clear-dirty:
+2012-12-24 13:24:31.328 E: xmpp/writer/write/clear-dirty groups
+2012-12-24 13:24:31.986 I: msgstore/unsent 0
+2012-12-24 13:24:32.145 I: app/unsent/count 0
+2012-12-24 13:24:32.325 I: c2dm/registered APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-24 13:24:32.822 I: c2dm/registered/new
+2012-12-24 13:24:32.962 I: xmpp/writer/write/client_config
+2012-12-24 13:24:33.171 I: xmpp/reader/read/client_config_set
+2012-12-24 13:24:34.533 I: registername/clicked
+2012-12-24 13:24:34.661 I: registername/dialog/initprogress
+2012-12-24 13:24:35.236 I: registername/contacts/count 7 (true)
+2012-12-24 13:24:35.251 W: registersync/start/get_sync_batch
+2012-12-24 13:24:35.288 I: registersync/start/get_sync_batch/count 7
+2012-12-24 13:24:35.323 I: sync/register_sync_batch/collection-count 7
+2012-12-24 13:24:35.328 I: httpinterface/registersync/sync_batch:7
+2012-12-24 13:24:35.972 I: xmpp/writer/write/push_name
+2012-12-24 13:24:39.004 I: httpinterface/registersync/finished - time spent:3671 total:7 iswa:2
+2012-12-24 13:24:39.009 I: dbinfo/checkDataBase
+2012-12-24 13:24:39.016 E: wadbhelper/checkDataBase android.database.sqlite.SQLiteException: unable to open database file
+2012-12-24 13:24:39.021 I: dbinfo/helper_create_db
+2012-12-24 13:24:39.129 I: dbinfo/onCreate wa_contacts wa_android_info
+2012-12-24 13:24:39.173 I: dbinfo/onOpen wa_contacts
+2012-12-24 13:24:39.192 I: dbinfo/onOpen wa_contacts
+2012-12-24 13:24:39.604 I: dbinfo/addContacts #:7 iswa#2 | time spent:595
+2012-12-24 13:24:39.713 I: xmpp/writer/write/connection_active | time: 8
+2012-12-24 13:24:39.770 I: app/sendGetProfilePhoto photo_id:0 type:2 jid:447912352230@s.whatsapp.net
+2012-12-24 13:24:39.775 I: xmpp/service/logout-timer/reset
+2012-12-24 13:24:39.780 I: xmpp/service/back_off/reset
+2012-12-24 13:24:39.793 I: dbinfo/getAllGroupChats #0 | time spent:8
+2012-12-24 13:24:39.869 I: xmpp/service/logout-timer/startifnecessary
+2012-12-24 13:24:39.936 I: xmpp/reader/read/offline-complete count=0
+2012-12-24 13:24:39.971 I: xmpp/service/ping/reset
+2012-12-24 13:24:40.034 I: mediaautodownload/updatestate false
+2012-12-24 13:24:40.099 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-24 13:24:40.099 I: xmpp/reader/read/profilephotoreceived 447912352230@s.whatsapp.net id:1340201883 type:preview has_data:true
+2012-12-24 13:24:40.137 I: xmpp/service/ping/reset
+2012-12-24 13:24:40.458 I: account_sync/checkandsync/add account auto Sync
+2012-12-24 13:24:41.102 I: dbinfo/photo_full_id: 0 photo_thumb_id: 1340201883 photo_id_timestamp: 1356355480673 | row_id=-1 jid=447912352230@s.whatsapp.net key=34-+447912352230 phone=2 iswa=true time spent:429
+2012-12-24 13:24:41.600 I: contact/observer/setversion=78 (prev=0)
+2012-12-24 13:24:44.159 I: main/create
+2012-12-24 13:24:44.530 I: main/gotoActivity
+2012-12-24 13:24:44.612 I: conversations/create
+2012-12-24 13:24:44.656 I: device/memory/system/available 62.17MB (24.00MB) lowMemory=false
+2012-12-24 13:24:44.680 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 13:24:44.690 I: device/memory/native/size 8728 kB/allocated 8697 kB/free 30 kB
+2012-12-24 13:24:44.694 I: device/memory/dalvik/size 10439 kB/allocated 7928 kB/free 2511 kB
+2012-12-24 13:24:44.723 I: device/memory/available 16142 kB
+2012-12-24 13:24:45.156 I: indivcount/count 2
+2012-12-24 13:24:45.859 I: conversations/resume
+2012-12-24 13:24:45.859 I: dbinfo/getWAContactsForAccountSync #2 | time spent:4105
+2012-12-24 13:24:46.040 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 13:24:46.361 I: registername/destroy
+2012-12-24 13:24:52.960 I: conversations/pause
+2012-12-24 13:24:55.230 I: contactpicker/create
+2012-12-24 13:24:55.290 I: dbinfo/release memory/17400
+2012-12-24 13:24:55.294 I: dbinfo/getcontactpickerlist total_wacontacts=2 | time spent:32
+2012-12-24 13:24:59.370 I: dbinfo/getContactByJID: 447912352230@s.whatsapp.net/contact:row_id=2 jid=447912352230@s.whatsapp.net key=1-07912352230 phone=1 iswa=true count=2
+2012-12-24 13:24:59.391 I: conversations/resume
+2012-12-24 13:24:59.436 I: conversations/pause
+2012-12-24 13:24:59.539 I: conversation/create
+2012-12-24 13:24:59.584 I: device/memory/system/available 60.93MB (24.00MB) lowMemory=false
+2012-12-24 13:24:59.599 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 13:24:59.604 I: device/memory/native/size 9032 kB/allocated 8914 kB/free 117 kB
+2012-12-24 13:24:59.609 I: device/memory/dalvik/size 10567 kB/allocated 7155 kB/free 3412 kB
+2012-12-24 13:24:59.613 I: device/memory/available 16697 kB
+2012-12-24 13:25:01.068 W: msgstore/startref can't get value for 447912352230@s.whatsapp.net
+2012-12-24 13:25:01.121 W: msgstore/getfirstref can't get value for 447912352230@s.whatsapp.net
+2012-12-24 13:25:01.133 I: conversation/resume 447912352230@s.whatsapp.net
+2012-12-24 13:25:01.169 I: xmpp/service/back_off/reset
+2012-12-24 13:25:01.400 I: xmpp/writer/write/subscription 447912352230@s.whatsapp.net | time: 12
+2012-12-24 13:25:01.415 I: xmpp/writer/write/query_last_online 447912352230@s.whatsapp.net | time: 10
+2012-12-24 13:25:01.461 I: redraw:240 | 264
+2012-12-24 13:25:01.778 I: xmpp/reader/read/lastseen 447912352230@s.whatsapp.net 1361516s
+2012-12-24 13:25:01.878 I: xmpp/service/ping/reset
+2012-12-24 13:25:02.376 I: redraw changed:240 | 93
+2012-12-24 13:25:04.679 I: xmpp/service/logout-timer/reset
+2012-12-24 13:25:08.922 I: msgstore/add/send 447912352230@s.whatsapp.net 1356355468-1 0
+2012-12-24 13:25:08.942 I: msgstore/chat/add 447912352230@s.whatsapp.net
+2012-12-24 13:25:09.324 I: notification/init_mute_info:
+2012-12-24 13:25:09.357 I: xmpp/service/logout-timer/reset
+2012-12-24 13:25:09.364 I: xmpp/service/back_off/reset
+2012-12-24 13:25:09.381 I: xmpp/writer/write/message 447912352230@s.whatsapp.net 1356355468-1 | time: 26
+2012-12-24 13:25:09.719 I: xmpp/reader/read/message/receipt/server 447912352230@s.whatsapp.net 1356355468-1
+2012-12-24 13:25:09.723 I: xmpp/service/ping/reset
+2012-12-24 13:25:09.739 I: msgstore/update/receipt/server/delay 816
+2012-12-24 13:25:15.879 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 13:25:16.197 I: account_sync/add_contact/batch_size:2 | time spent:34758
+2012-12-24 13:25:22.046 I: observer back on
+2012-12-24 13:25:22.604 I: conversation/pause
+2012-12-24 13:25:23.429 I: redraw changed:240 | 264
+2012-12-24 13:25:26.900 I: conversation/stop/release 10440 jid=447912352230@s.whatsapp.net
+2012-12-24 13:25:37.628 I: app/presenceavailable/timeout
+2012-12-24 13:25:37.638 I: app/sendinactive/wl
+2012-12-24 13:25:37.699 I: xmpp/writer/write/inactive | time: 20
+2012-12-24 13:25:37.965 I: xmpp/reader/read/presence/unavailable 447741591070@s.whatsapp.net
+2012-12-24 13:25:38.016 I: xmpp/service/ping/reset
+2012-12-24 13:25:38.058 I: app/xmpp/recv/handle_available 447741591070@s.whatsapp.net false
+2012-12-24 13:25:48.538 I: contact/observer/onchange/version=82 saved=78
+2012-12-24 13:25:48.837 I: sync/time_since_last_sync: 74s
+2012-12-24 13:25:52.165 I: sync/start...(count=1)
+2012-12-24 13:25:53.459 I: sync/syncDelta
+2012-12-24 13:25:55.416 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:94
+2012-12-24 13:25:55.781 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 13:25:56.949 I: sync/syncDelta/cursor/count 7
+2012-12-24 13:25:56.982 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 13:25:56.986 I: sync/syncDelta/update_list/count 0
+2012-12-24 13:25:57.048 I: sync/syncDelta/remove_list/count 0
+2012-12-24 13:25:57.068 I: sync/syncDelta - time spent:1747
+2012-12-24 13:25:57.117 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:25:57.122 I: app/sync/delay
+2012-12-24 13:25:57.463 I: contact/observer/setversion=82 (prev=78)
+2012-12-24 13:26:03.023 I: contact/observer/onchange/version=82 saved=82
+2012-12-24 13:26:05.209 I: contact/observer/onchange/version=82 saved=82
+2012-12-24 13:26:12.500 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:26:12.534 I: app/sync/delay
+2012-12-24 13:26:21.423 I: contact/observer/onchange/version=82 saved=82
+2012-12-24 13:26:26.639 I: ==== logfile level=3 tz=0 ====
+2012-12-24 13:26:26.645 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-24 13:26:26.656 I: app/permissions/com.whatsapp w=true
+2012-12-24 13:26:26.661 I: app/permissions/files w=true
+2012-12-24 13:26:26.665 I: app/permissions/Logs w=true
+2012-12-24 13:26:26.670 I: app/permissions/databases w=true
+2012-12-24 13:26:26.696 I: app/create/notmain com.whatsapp:contacts
+2012-12-24 13:26:26.702 I: app/oncreate/not_main_process/stop_here..
+2012-12-24 13:26:27.196 I: dbinfo/getWAContactsForAccountSync #2 | time spent:216
+2012-12-24 13:26:27.255 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 13:26:27.753 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:26:27.762 I: app/sync/delay
+2012-12-24 13:26:31.827 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 13:26:31.946 I: account_sync/add_contact/batch_size:0 | time spent:4983
+2012-12-24 13:26:37.507 I: observer back on
+2012-12-24 13:26:42.853 I: app/sync/run
+2012-12-24 13:26:43.079 I: dbinfo/getWAContactsForAccountSync #2 | time spent:160
+2012-12-24 13:26:43.083 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 13:26:44.737 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 13:26:45.147 I: account_sync/add_contact/batch_size:0 | time spent:2253
+2012-12-24 13:26:50.156 I: observer back on
+2012-12-24 13:29:15.729 I: xmpp/service/keepalive
+2012-12-24 13:29:15.736 I: xmpp/service/socket/keepalive 217678
+2012-12-24 13:29:15.790 I: xmpp/writer/write/keepalive
+2012-12-24 13:32:54.257 I: contact/observer/onchange/version=80 saved=82
+2012-12-24 13:32:54.278 I: sync/time_since_last_sync: 499s
+2012-12-24 13:32:54.488 I: sync/start...(count=1)
+2012-12-24 13:32:54.746 I: sync/syncDelta
+2012-12-24 13:32:55.051 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:79
+2012-12-24 13:32:55.069 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 13:32:55.464 I: sync/syncDelta/cursor/count 7
+2012-12-24 13:32:55.513 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 13:32:55.562 I: sync/syncDelta/update_list/count 0
+2012-12-24 13:32:55.584 I: sync/syncDelta/remove_list/count 0
+2012-12-24 13:32:55.595 I: sync/syncDelta - time spent:625
+2012-12-24 13:32:55.649 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:32:55.661 I: app/sync/delay
+2012-12-24 13:32:55.692 I: contact/observer/onchange/version=80 saved=82
+2012-12-24 13:32:55.674 I: contact/observer/setversion=80 (prev=82)
+2012-12-24 13:32:55.827 I: contact/observer/onchange/version=80 saved=80
+2012-12-24 13:33:00.887 I: sync/time_since_last_sync: 506s
+2012-12-24 13:33:00.997 I: sync/start...(count=1)
+2012-12-24 13:33:01.031 I: sync/syncDelta
+2012-12-24 13:33:01.059 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:22
+2012-12-24 13:33:01.066 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 13:33:01.126 I: sync/syncDelta/cursor/count 7
+2012-12-24 13:33:01.173 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 13:33:01.187 I: sync/syncDelta/update_list/count 0
+2012-12-24 13:33:01.218 I: sync/syncDelta/remove_list/count 0
+2012-12-24 13:33:01.224 I: sync/syncDelta - time spent:187
+2012-12-24 13:33:01.252 I: app/sync/run
+2012-12-24 13:33:01.281 I: contact/observer/setversion=80 (prev=80)
+2012-12-24 13:33:01.393 I: dbinfo/getWAContactsForAccountSync #2 | time spent:17
+2012-12-24 13:33:01.488 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 13:33:01.750 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 13:33:01.993 I: account_sync/add_contact/batch_size:0 | time spent:692
+2012-12-24 13:33:07.067 I: observer back on
+2012-12-24 13:34:01.380 I: xmpp/service/keepalive
+2012-12-24 13:34:01.422 I: xmpp/service/socket/keepalive 503363
+2012-12-24 13:34:03.298 I: xmpp/writer/write/keepalive
+2012-12-24 13:35:10.172 I: xmpp/service/logout-timer/timeout
+2012-12-24 13:35:16.360 I: msgqueuer/start
+2012-12-24 13:35:16.557 I: xmpp/writer/write/logout | time: 626
+2012-12-24 13:35:16.557 I: xmpp/reader/logout
+2012-12-24 13:35:16.776 I: xmpp/connection/socket/close
+2012-12-24 13:35:16.814 I: msgqueuer/start
+2012-12-24 13:35:16.937 I: xmpp/service/logout-timer/disable
+2012-12-24 13:35:17.759 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 13:38:45.729 I: xmpp/service/keepalive
+2012-12-24 13:38:45.754 I: xmpp/connection/recv/connect
+2012-12-24 13:38:45.764 I: xmpp/connection/connect
+2012-12-24 13:38:45.770 I: xmpp/connection/socket/connecting c3.whatsapp.net./50.22.231.39:443
+2012-12-24 13:38:45.881 I: xmpp/connection/socket/connected
+2012-12-24 13:38:46.127 I: xmpp/connection/login
+2012-12-24 13:38:46.132 I: xmpp/service/login/timeout/start
+2012-12-24 13:38:46.526 I: xmpp/service/login/timeout/stop
+2012-12-24 13:38:46.531 I: xmpp/connection/write/client_config/get
+2012-12-24 13:38:46.547 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-24 13:38:46.583 I: xmpp/service/keepalive/stop
+2012-12-24 13:38:46.593 I: xmpp/writer/recv/connected
+2012-12-24 13:38:46.604 E: onDirty/table size:0
+2012-12-24 13:38:46.604 I: msgqueuer/stop
+2012-12-24 13:38:46.615 I: xmpp/service/logout-timer/enable
+2012-12-24 13:38:46.625 I: xmpp/reader/read/offline-complete count=0
+2012-12-24 13:38:46.625 I: xmpp/service/back_off/reset
+2012-12-24 13:38:46.648 I: xmpp/service/ping/reset
+2012-12-24 13:38:46.655 I: xmpp/service/ping/reset
+2012-12-24 13:38:46.672 I: xmpp/reader/read/client_config
+2012-12-24 13:38:46.682 I: mediaautodownload/updatestate false
+2012-12-24 13:38:46.698 I: msgstore/unsent 0
+2012-12-24 13:38:46.704 I: app/unsent/count 0
+2012-12-24 13:38:46.715 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-24 13:38:46.723 I: xmpp/service/ping/reset
+2012-12-24 13:38:46.757 I: c2dm/registration/saved APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-24 13:49:02.157 I: contact/observer/onchange/version=18 saved=80
+2012-12-24 13:49:02.197 I: sync/time_since_last_sync: 1467s
+2012-12-24 13:49:02.450 I: contact/observer/onchange/version=18 saved=80
+2012-12-24 13:49:02.592 I: sync/start...(count=1)
+2012-12-24 13:49:02.627 I: sync/syncDelta
+2012-12-24 13:49:02.914 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:74
+2012-12-24 13:49:02.918 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 13:49:03.051 I: sync/syncDelta/cursor/count 4
+2012-12-24 13:49:03.093 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 13:49:03.107 I: sync/syncDelta/update_list/count 0
+2012-12-24 13:49:03.127 I: sync/syncDelta/remove_list/count 3
+2012-12-24 13:49:03.133 I: sync/syncDelta - time spent:354
+2012-12-24 13:49:03.169 I: indivcount/count 2
+2012-12-24 13:49:03.193 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:49:03.201 I: app/sync/delay
+2012-12-24 13:49:03.260 I: dbinfo/getContactByJID: 447912352230@s.whatsapp.net/contact:row_id=2 jid=447912352230@s.whatsapp.net key=1-07912352230 phone=1 iswa=true count=2
+2012-12-24 13:49:03.260 I: contact/observer/setversion=18 (prev=80)
+2012-12-24 13:49:08.715 I: sync/time_since_last_sync: 1474s
+2012-12-24 13:49:08.841 I: sync/start...(count=1)
+2012-12-24 13:49:08.845 I: sync/syncDelta
+2012-12-24 13:49:08.903 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:53
+2012-12-24 13:49:08.923 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 13:49:09.006 I: sync/syncDelta/cursor/count 4
+2012-12-24 13:49:09.048 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 13:49:09.084 I: sync/syncDelta/update_list/count 0
+2012-12-24 13:49:09.092 I: sync/syncDelta/remove_list/count 3
+2012-12-24 13:49:09.107 I: sync/syncDelta - time spent:257
+2012-12-24 13:49:09.120 I: indivcount/count 2
+2012-12-24 13:49:09.151 I: dbinfo/getContactByJID: 447912352230@s.whatsapp.net/contact:row_id=2 jid=447912352230@s.whatsapp.net key=1-07912352230 phone=1 iswa=true count=2
+2012-12-24 13:49:09.163 I: contact/observer/setversion=18 (prev=18)
+2012-12-24 13:49:09.191 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:49:09.197 I: app/sync/delay
+2012-12-24 13:49:12.591 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 13:49:23.190 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 13:49:24.221 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:49:24.231 I: app/sync/delay
+2012-12-24 13:50:06.517 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:50:06.523 I: app/sync/delay
+2012-12-24 13:50:21.554 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:50:21.559 I: app/sync/delay
+2012-12-24 13:50:36.589 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:50:36.595 I: app/sync/delay
+2012-12-24 13:50:51.628 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:50:51.634 I: app/sync/delay
+2012-12-24 13:51:06.670 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:51:06.675 I: app/sync/delay
+2012-12-24 13:51:21.708 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:51:21.713 I: app/sync/delay
+2012-12-24 13:51:36.774 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:51:36.780 I: app/sync/delay
+2012-12-24 13:51:51.815 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:51:51.821 I: app/sync/delay
+2012-12-24 13:52:06.870 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:52:06.876 I: app/sync/delay
+2012-12-24 13:52:23.002 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:52:23.147 I: app/sync/delay
+2012-12-24 13:52:24.137 I: xmpp/service/logout-timer/timeout
+2012-12-24 13:52:24.325 I: msgqueuer/start
+2012-12-24 13:52:24.329 I: xmpp/writer/write/logout | time: 67
+2012-12-24 13:52:24.528 I: xmpp/reader/logout
+2012-12-24 13:52:24.542 I: xmpp/connection/socket/close
+2012-12-24 13:52:24.562 I: xmpp/service/logout-timer/disable
+2012-12-24 13:52:24.562 I: msgqueuer/start
+2012-12-24 13:52:24.919 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 13:52:38.389 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:52:38.517 I: app/sync/delay
+2012-12-24 13:52:53.786 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:52:53.821 I: app/sync/delay
+2012-12-24 13:53:03.520 I: app/shutdown/external_media/state/mounted
+2012-12-24 13:53:08.870 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:53:08.887 I: app/sync/delay
+2012-12-24 13:53:24.400 I: sync/hascurrentsync/type=com.google
+2012-12-24 13:53:24.471 I: app/sync/delay
+2012-12-24 16:48:12.787 I: ==== logfile level=3 tz=0 ====
+2012-12-24 16:48:12.795 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-24 16:48:12.813 I: app/permissions/com.whatsapp w=true
+2012-12-24 16:48:12.818 I: app/permissions/files w=true
+2012-12-24 16:48:12.827 I: app/permissions/Logs w=true
+2012-12-24 16:48:12.832 I: app/permissions/databases w=true
+2012-12-24 16:48:12.859 I: app/proccesses/proc 1227 28
+2012-12-24 16:48:12.866 I: app/processes/procinfo com.whatsapp 1227 100
+2012-12-24 16:48:12.870 I: app/processes/proc/self com.whatsapp 100 0 ?
+2012-12-24 16:48:12.891 I: network/info
+NetworkInfo: type: mobile[GPRS], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 1
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[GPRS], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 1
+NetworkInfo: type: mobile_supl[GPRS], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 1
+NetworkInfo: type: mobile_dun[GPRS], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 1
+NetworkInfo: type: mobile_hipri[GPRS], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 1
+2012-12-24 16:48:12.902 I: app/loadme
+2012-12-24 16:48:13.209 I: statistics Text Messages: 1 sent, 0 received / Media Messages: 0 sent (0 bytes), 0 received (0 bytes) / Offline Messages: 0 received (0 msec average delay) / Message Service: 1560 bytes sent, 3199 bytes received / Cold Sync: 835 bytes sent, 439 bytes received / Total Data: 2395 bytes sent, 3638 bytes received
+2012-12-24 16:48:13.230 I: app/internalstorage/avail 29.49MB
+2012-12-24 16:48:13.236 I: app/init/writable-media
+2012-12-24 16:48:13.280 I: app/init/timer/stop: 45
+2012-12-24 16:48:13.435 I: groupchat/observer/registered:1227
+2012-12-24 16:48:13.510 I: msgstore/checkhealth
+2012-12-24 16:48:13.516 I: msgstore/checkhealth/journal/delete false
+2012-12-24 16:48:13.520 I: msgstore/checkhealth/back/delete false
+2012-12-24 16:48:13.527 I: msgstore/checkdb
+2012-12-24 16:48:13.542 I: msgstore/checkdb/list msgstore.db 8192
+2012-12-24 16:48:13.546 I: msgstore/checkdb/list wa.db 7168
+2012-12-24 16:48:13.588 I: msgstore/checkdb/version 1
+2012-12-24 16:48:13.599 I: msgstore/canquery
+2012-12-24 16:48:13.617 I: msgstore/canquery/count 1
+2012-12-24 16:48:13.629 I: msgstore/canquery 2 | time spent:24
+2012-12-24 16:48:13.640 I: msgstore/canupdate
+2012-12-24 16:48:13.657 I: msgstore/canupdate | time spent:12
+2012-12-24 16:48:13.686 I: msgstore/preparestatements
+2012-12-24 16:48:13.690 I: msgstore/checkdb
+2012-12-24 16:48:13.705 I: msgstore/checkdb/list msgstore.db 8192
+2012-12-24 16:48:13.712 I: msgstore/checkdb/list wa.db 7168
+2012-12-24 16:48:13.725 I: msgstore/checkdb/version 1
+2012-12-24 16:48:13.732 I: msgstore/getwritabledb/exists
+2012-12-24 16:48:13.770 I: app/msgstoredb/healthy
+2012-12-24 16:48:13.774 I: msgstore/finish
+2012-12-24 16:48:13.778 I: msgstore/initialize/lastmsgs
+2012-12-24 16:48:13.834 I: msgstore/initialize/lastmsgs 1
+2012-12-24 16:48:13.839 I: msgstore/getAllGroupActionMessages
+2012-12-24 16:48:13.852 I: msgstore/asyncthread/started
+2012-12-24 16:48:13.862 I: xmpp/service/bind
+2012-12-24 16:48:13.939 I: dbinfo/checkDataBase
+2012-12-24 16:48:13.965 I: dbinfo/open_existing_db
+2012-12-24 16:48:13.983 I: current version:2, Appversion:2
+2012-12-24 16:48:14.006 I: dbinfo/onOpen wa_contacts
+2012-12-24 16:48:14.024 I: dbinfo/isDBInited:true/total contact:7 | time spent:86
+2012-12-24 16:48:14.044 I: app/db_init/sync_needed 0
+2012-12-24 16:48:14.101 I: app/alarm/dbbackup/start Tue Dec 25 04:00:00 GMT 2012
+2012-12-24 16:48:14.218 I: dbinfo/load conversations/in clause'447912352230@s.whatsapp.net',
+2012-12-24 16:48:14.300 I: app/alarm/rotate-logs/start Tue Dec 25 00:00:00 GMT 2012
+2012-12-24 16:48:14.332 I: app/alarm/reportsync/start Tue Dec 25 10:00:00 GMT 2012
+2012-12-24 16:48:14.357 I: app/setting/background-data true
+2012-12-24 16:48:14.363 I: app/allcontacts/true
+2012-12-24 16:48:14.421 I: dbinfo/release memory/9280
+2012-12-24 16:48:14.545 I: file_counter:1 | last_gen_time:Thu Jan 01 01:00:00 GMT 1970 |  time:5 | total:0
+2012-12-24 16:48:14.583 I: app/custom-rom null
+2012-12-24 16:48:14.606 I: app/dly 0000
+2012-12-24 16:48:14.697 I: contact/observer/onchange/version=16 saved=18
+2012-12-24 16:48:15.038 I: sync/time_since_last_sync: 0s
+2012-12-24 16:48:15.927 I: app/loadloginfailed/none
+2012-12-24 16:48:15.935 I: app/create/timer/stop: 3282
+2012-12-24 16:48:15.968 I: main/create
+2012-12-24 16:48:15.982 I: sync/start...(count=1)
+2012-12-24 16:48:16.173 I: main/gotoActivity
+2012-12-24 16:48:16.198 I: phone/state idle
+2012-12-24 16:48:16.210 I: sync/syncDelta
+2012-12-24 16:48:16.210 I: xmpp/service/create
+2012-12-24 16:48:16.228 I: xmpp/service/keepalive/stop
+2012-12-24 16:48:16.239 I: xmpp/service/start
+2012-12-24 16:48:16.255 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:42
+2012-12-24 16:48:16.296 I: msgqueuer/set true
+2012-12-24 16:48:16.296 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 16:48:16.325 I: device/background-data/enabled true
+2012-12-24 16:48:16.356 I: xmpp/connection/recv/writer_thread_ready
+2012-12-24 16:48:16.458 I: conversations/create
+2012-12-24 16:48:16.473 I: device/memory/system/available 135MB (24.00MB) lowMemory=false
+2012-12-24 16:48:16.485 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 16:48:16.492 I: device/memory/native/size 6928 kB/allocated 6905 kB/free 22 kB
+2012-12-24 16:48:16.496 I: device/memory/dalvik/size 6599 kB/allocated 4064 kB/free 2535 kB
+2012-12-24 16:48:16.500 I: device/memory/available 21797 kB
+2012-12-24 16:48:16.669 I: sync/syncDelta/cursor/count 4
+2012-12-24 16:48:16.777 I: device/memory private_dirty=4476kB pss=7123kB shared_dirty=12000kB
+2012-12-24 16:48:17.153 I: indivcount/count 2
+2012-12-24 16:48:17.244 I: conversations/resume
+2012-12-24 16:48:17.314 I: xmpp/connection/recv/connect
+2012-12-24 16:48:17.319 I: xmpp/connection/connect
+2012-12-24 16:48:17.339 I: xmpp/service/network/notice type=wifi state=connected connected=true available=true
+2012-12-24 16:48:17.319 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 16:48:17.376 I: sync/syncDelta/update_list/count 0
+2012-12-24 16:48:17.393 I: xmpp/service/network/active type=wifi state=connected connected=true available=true
+2012-12-24 16:48:17.424 I: xmpp/connection/socket/connecting c2.whatsapp.net./50.22.231.48:443
+2012-12-24 16:48:17.578 I: sync/syncDelta/remove_list/count 3
+2012-12-24 16:48:17.690 I: xmpp/connection/socket/connected
+2012-12-24 16:48:17.724 I: notification/init_mute_info:
+2012-12-24 16:48:17.937 I: xmpp/service/ready
+2012-12-24 16:48:18.332 I: xmpp/service/ready/send thumb requests: 0
+2012-12-24 16:48:18.349 I: sync/syncDelta - time spent:2136
+2012-12-24 16:48:18.706 I: xmpp/connection/login
+2012-12-24 16:48:19.634 I: device/memory processes=28 total=183776
+2012-12-24 16:48:19.816 I: xmpp/connection/write/blocklist/get
+2012-12-24 16:48:19.668 I: indivcount/count 2
+2012-12-24 16:48:19.042 I: contact/observer/setversion=16 (prev=18)
+2012-12-24 16:48:19.851 I: app/sync/run
+2012-12-24 16:48:19.881 I: xmpp/service/login/timeout/start
+2012-12-24 16:48:19.937 I: dbinfo/getContactByJID: 447912352230@s.whatsapp.net/contact:row_id=2 jid=447912352230@s.whatsapp.net key=1-07912352230 phone=1 iswa=true count=2
+2012-12-24 16:48:20.010 I: xmpp/service/login/timeout/stop
+2012-12-24 16:48:19.861 I: device/battery level=50% health=2 plugged=0
+2012-12-24 16:48:19.868 I: xmpp/connection/write/client_config/get
+2012-12-24 16:48:20.116 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-24 16:48:20.164 E: onDirty/table size:0
+2012-12-24 16:48:20.177 I: xmpp/reader/read/offline-complete count=0
+2012-12-24 16:48:20.193 I: xmpp/writer/recv/connected
+2012-12-24 16:48:20.203 I: msgqueuer/stop
+2012-12-24 16:48:20.297 I: xmpp/service/keepalive/stop
+2012-12-24 16:48:20.326 I: xmpp/service/logout-timer/enable
+2012-12-24 16:48:20.330 I: xmpp/service/back_off/reset
+2012-12-24 16:48:20.410 I: xmpp/service/ping/reset
+2012-12-24 16:48:20.424 I: xmpp/service/ping/reset
+2012-12-24 16:48:20.435 I: xmpp/reader/read/blocklist/clear
+2012-12-24 16:48:20.455 I: xmpp/reader/read/client_config
+2012-12-24 16:48:20.472 I: mediaautodownload/updatestate false
+2012-12-24 16:48:20.485 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-24 16:48:20.495 I: xmpp/writer/write/active | time: 4
+2012-12-24 16:48:20.500 I: xmpp/service/logout-timer/reset
+2012-12-24 16:48:20.505 I: xmpp/service/back_off/reset
+2012-12-24 16:48:20.603 I: account_sync/checkandsync/add account auto Sync
+2012-12-24 16:48:20.627 I: xmpp/service/ping/reset
+2012-12-24 16:48:20.653 I: xmpp/service/ping/reset
+2012-12-24 16:48:20.538 I: msgstore/unsent 0
+2012-12-024 16:48:20.692 I: device/memory/system/available 134MB (24.00MB) lowMemory=false
+2012-12-24 16:48:20.692 I: app/unsent/count 0
+2012-12-24 16:48:20.803 I: xmpp/reader/read/presence/available 447741591070@s.whatsapp.net
+2012-12-24 16:48:20.843 I: xmpp/service/ping/reset
+2012-12-24 16:48:20.905 I: c2dm/registration/saved APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-24 16:48:20.911 I: app/xmpp/recv/handle_available 447741591070@s.whatsapp.net true
+2012-12-24 16:48:21.606 I: conversations/pause
+2012-12-24 16:48:22.721 I: conversations/destroy
+2012-12-24 16:48:23.721 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 16:48:22.856 I: dbinfo/getWAContactsForAccountSync #2 | time spent:1517
+2012-12-24 16:48:25.272 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 16:48:24.751 I: device/memory/native/size 7352 kB/allocated 7332 kB/free 19 kB
+2012-12-24 16:48:25.592 I: device/memory/dalvik/size 6791 kB/allocated 4106 kB/free 2685 kB
+2012-12-24 16:48:28.671 I: device/memory/available 21328 kB
+2012-12-24 16:48:50.048 I: app/presenceavailable/timeout
+2012-12-24 16:48:50.077 I: app/sendinactive/wl
+2012-12-24 16:48:50.090 I: xmpp/writer/write/inactive | time: 3
+2012-12-24 16:48:50.574 I: xmpp/reader/read/presence/unavailable 447741591070@s.whatsapp.net
+2012-12-24 16:48:50.587 I: xmpp/service/ping/reset
+2012-12-24 16:48:50.599 I: app/xmpp/recv/handle_available 447741591070@s.whatsapp.net false
+2012-12-24 16:49:27.144 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 16:49:27.202 I: account_sync/add_contact/batch_size:2 | time spent:66214
+2012-12-24 16:49:32.267 I: observer back on
+2012-12-24 16:50:10.262 I: contact/observer/onchange/version=20 saved=16
+2012-12-24 16:50:10.269 I: sync/time_since_last_sync: 115s
+2012-12-24 16:50:10.345 I: sync/start...(count=1)
+2012-12-24 16:50:10.350 I: sync/syncDelta
+2012-12-24 16:50:10.368 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:14
+2012-12-24 16:50:10.373 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 16:50:10.427 I: sync/syncDelta/cursor/count 4
+2012-12-24 16:50:10.455 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 16:50:10.460 I: sync/syncDelta/update_list/count 0
+2012-12-24 16:50:10.471 I: sync/syncDelta/remove_list/count 3
+2012-12-24 16:50:10.483 I: sync/syncDelta - time spent:127
+2012-12-24 16:50:10.526 I: contact/observer/onchange/version=20 saved=16
+2012-12-24 16:50:10.550 I: sync/hascurrentsync/type=com.google
+2012-12-24 16:50:10.555 I: app/sync/delay
+2012-12-24 16:50:10.571 I: contact/observer/setversion=20 (prev=16)
+2012-12-24 16:50:15.751 I: sync/time_since_last_sync: 120s
+2012-12-24 16:50:22.324 I: sync/start...(count=1)
+2012-12-24 16:50:23.459 I: sync/syncDelta
+2012-12-24 16:50:24.775 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:747
+2012-12-24 16:50:24.779 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 16:50:25.252 I: sync/syncDelta/cursor/count 4
+2012-12-24 16:50:25.282 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 16:50:25.312 I: sync/syncDelta/update_list/count 0
+2012-12-24 16:50:25.333 I: sync/syncDelta/remove_list/count 3
+2012-12-24 16:50:25.338 I: sync/syncDelta - time spent:1309
+2012-12-24 16:50:25.628 I: sync/hascurrentsync/type=com.google
+2012-12-24 16:50:25.675 I: app/sync/delay
+2012-12-24 16:50:25.646 I: contact/observer/setversion=20 (prev=20)
+2012-12-24 16:50:31.283 I: ==== logfile level=3 tz=0 ====
+2012-12-24 16:50:31.290 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-24 16:50:31.311 I: app/permissions/com.whatsapp w=true
+2012-12-24 16:50:31.316 I: app/permissions/files w=true
+2012-12-24 16:50:31.320 I: app/permissions/Logs w=true
+2012-12-24 16:50:31.325 I: app/permissions/databases w=true
+2012-12-24 16:50:31.350 I: app/create/notmain com.whatsapp:contacts
+2012-12-24 16:50:31.355 I: app/oncreate/not_main_process/stop_here..
+2012-12-24 16:50:33.253 I: dbinfo/getWAContactsForAccountSync #2 | time spent:1654
+2012-12-24 16:50:33.257 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 16:50:40.555 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 16:50:40.717 I: sync/hascurrentsync/type=com.android.exchange
+2012-12-24 16:50:40.753 I: app/sync/delay
+2012-12-24 16:50:40.768 I: account_sync/add_contact/batch_size:0 | time spent:9189
+2012-12-24 16:50:45.898 I: observer back on
+2012-12-24 16:50:47.304 I: contact/observer/onchange/version=18 saved=20
+2012-12-24 16:50:47.314 I: sync/time_since_last_sync: 152s
+2012-12-24 16:50:47.613 I: sync/start...(count=1)
+2012-12-24 16:50:47.636 I: sync/syncDelta
+2012-12-24 16:50:47.724 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:84
+2012-12-24 16:50:47.729 I: sync/syncDelta/all_contacts_list/count 7
+2012-12-24 16:50:47.980 I: sync/syncDelta/cursor/count 4
+2012-12-24 16:50:48.023 I: sync/syncDelta/extra_sync_list/count 0
+2012-12-24 16:50:48.027 I: sync/syncDelta/update_list/count 0
+2012-12-24 16:50:48.066 I: sync/syncDelta/remove_list/count 3
+2012-12-24 16:50:48.104 I: sync/syncDelta - time spent:464
+2012-12-24 16:50:48.153 I: app/sync/run
+2012-12-24 16:50:48.188 I: contact/observer/setversion=18 (prev=20)
+2012-12-24 16:50:48.257 I: dbinfo/getWAContactsForAccountSync #2 | time spent:5
+2012-12-24 16:50:48.351 I: account_sync/performsync: type=com.whatsapp
+2012-12-24 16:50:48.594 I: dbinfo/deleteContactsFromTable/skip
+2012-12-24 16:50:48.601 I: account_sync/add_contact/batch_size:0 | time spent:406
+2012-12-24 16:50:53.611 I: observer back on
+2012-12-24 16:53:23.628 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 16:55:12.042 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 16:56:00.393 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 16:57:10.952 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 17:00:24.735 I: xmpp/service/logout-timer/timeout
+2012-12-24 17:00:24.833 I: msgqueuer/start
+2012-12-24 17:00:24.839 I: xmpp/writer/write/logout | time: 44
+2012-12-24 17:00:25.349 I: xmpp/reader/logout
+2012-12-24 17:00:25.358 I: xmpp/connection/socket/close
+2012-12-24 17:00:25.390 I: msgqueuer/start
+2012-12-24 17:00:25.403 I: xmpp/service/logout-timer/disable
+2012-12-24 17:00:25.711 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 17:01:10.740 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 17:16:05.935 I: xmpp/service/network/notice type=wifi state=disconnected connected=false available=false
+2012-12-24 17:16:06.069 I: xmpp/service/network/active (null)
+2012-12-24 17:16:06.074 I: xmpp/service/network/switch old=1 new=-1
+2012-12-24 17:16:06.221 I: xmpp/service/network/down
+2012-12-24 17:25:26.768 I: xmpp/service/network/notice type=wifi state=connected connected=true available=true
+2012-12-24 17:25:26.989 I: xmpp/service/network/active type=wifi state=connected connected=true available=true
+2012-12-24 17:25:26.993 I: xmpp/service/network/switch old=-1 new=1
+2012-12-24 17:25:27.167 I: xmpp/service/network/up
+2012-12-24 17:25:27.235 I: xmpp/connection/recv/connect
+2012-12-24 17:25:27.467 I: xmpp/connection/connect
+2012-12-24 17:25:27.895 I: xmpp/connection/socket/connecting c2.whatsapp.net./50.22.231.51:443
+2012-12-24 17:25:28.469 I: xmpp/connection/socket/connected
+2012-12-24 17:25:28.654 I: xmpp/connection/login
+2012-12-24 17:25:28.668 I: xmpp/service/login/timeout/start
+2012-12-24 17:25:29.254 I: xmpp/service/login/timeout/stop
+2012-12-24 17:25:29.262 I: xmpp/connection/write/client_config/get
+2012-12-24 17:25:29.425 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-24 17:25:29.667 E: onDirty/table size:0
+2012-12-24 17:25:30.087 I: xmpp/reader/read/offline-complete count=0
+2012-12-24 17:25:30.165 I: xmpp/reader/read/client_config
+2012-12-24 17:25:30.328 I: xmpp/writer/recv/connected
+2012-12-24 17:25:30.345 I: xmpp/service/keepalive/stop
+2012-12-24 17:25:30.345 I: msgqueuer/stop
+2012-12-24 17:25:30.579 I: xmpp/service/logout-timer/enable
+2012-12-24 17:25:30.616 I: xmpp/service/back_off/reset
+2012-12-24 17:25:31.144 I: xmpp/service/ping/reset
+2012-12-24 17:25:31.374 I: xmpp/service/ping/reset
+2012-12-24 17:25:32.988 I: xmpp/service/ping/reset
+2012-12-24 17:25:33.524 I: mediaautodownload/updatestate false
+2012-12-24 17:25:33.630 I: msgstore/unsent 0
+2012-12-24 17:25:34.025 I: app/unsent/count 0
+2012-12-24 17:25:34.113 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-24 17:25:34.399 I: c2dm/registration/saved APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-24 17:26:10.994 I: contact/observer/onchange/version=18 saved=18
+2012-12-24 17:27:21.543 I: xmpp/reader/io-error java.net.SocketException: Connection timed out
+2012-12-24 17:27:21.663 I: xmpp/reader/error
+2012-12-24 17:27:21.680 I: xmpp/connection/socket/close
+2012-12-24 17:27:21.692 I: msgqueuer/start
+2012-12-24 17:27:21.697 I: xmpp/service/logout-timer/disable
+2012-12-24 17:27:21.718 I: xmpp/service/retry/11504
+2012-12-24 17:27:21.747 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 17:27:23.014 I: xmpp/service/network/notice type=wifi state=disconnected connected=false available=false
+2012-12-24 17:27:23.019 I: xmpp/service/network/active (null)
+2012-12-24 17:27:23.089 I: xmpp/service/network/switch old=1 new=-1
+2012-12-24 17:27:23.095 I: xmpp/service/network/down
+2012-12-24 17:27:33.233 I: xmpp/service/network/ignore (null)
+2012-12-24 17:27:40.525 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: DISCONNECTED/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 17:27:40.542 I: xmpp/connection/recv/connect
+2012-12-24 17:27:40.547 I: xmpp/connection/connect
+2012-12-24 17:27:40.570 I: xmpp/connection/socket/connecting c2.whatsapp.net./50.22.231.45:443
+2012-12-24 17:27:40.577 I: xmpp/connection/socket/disconnect java.net.ConnectException: c2.whatsapp.net./50.22.231.45:443 - Network is unreachable
+2012-12-24 17:27:40.583 I: xmpp/connection/socket/next-port/io-exception
+2012-12-24 17:27:40.588 I: xmpp/connection/socket/close
+2012-12-24 17:27:40.594 I: xmpp/service/logout-timer/disable
+2012-12-24 17:27:40.611 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: DISCONNECTED/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-24 17:36:02.832 I: device/background-data/enabled true
+2012-12-24 17:37:27.786 I: device/memory private_dirty=5424kB pss=7255kB shared_dirty=11788kB
+2012-12-24 17:44:30.049 I: device/memory processes=28 total=251202
+2012-12-24 17:44:30.060 I: device/battery level=68% health=2 plugged=1
+2012-12-24 17:44:30.075 I: device/memory/system/available 74.93MB (24.00MB) lowMemory=false
+2012-12-24 17:44:30.089 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 17:44:30.097 I: device/memory/native/size 7352 kB/allocated 7317 kB/free 34 kB
+2012-12-24 17:44:30.103 I: device/memory/dalvik/size 6855 kB/allocated 4079 kB/free 2776 kB
+2012-12-24 17:44:30.108 I: device/memory/available 21371 kB
+2012-12-24 18:36:54.701 I: device/background-data/enabled true
+2012-12-24 18:36:54.860 I: device/memory private_dirty=5424kB pss=7263kB shared_dirty=11788kB
+2012-12-24 18:44:32.612 I: device/memory processes=28 total=250954
+2012-12-24 18:44:32.662 I: device/battery level=91% health=2 plugged=1
+2012-12-24 18:44:32.730 I: device/memory/system/available 75.06MB (24.00MB) lowMemory=false
+2012-12-24 18:44:32.758 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 18:44:32.802 I: device/memory/native/size 7352 kB/allocated 7323 kB/free 28 kB
+2012-12-24 18:44:32.832 I: device/memory/dalvik/size 6855 kB/allocated 4151 kB/free 2704 kB
+2012-12-24 18:48:02.806 I: device/memory/available 21293 kB
+2012-12-24 19:36:54.656 I: device/background-data/enabled true
+2012-12-24 19:36:54.716 I: device/memory private_dirty=5460kB pss=7298kB shared_dirty=11788kB
+2012-12-24 19:44:34.155 I: device/memory processes=28 total=251365
+2012-12-24 19:44:34.195 I: device/battery level=100% health=2 plugged=0
+2012-12-24 19:44:34.217 I: device/memory/system/available 74.85MB (24.00MB) lowMemory=false
+2012-12-24 19:44:34.265 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 19:44:34.283 I: device/memory/native/size 7352 kB/allocated 7325 kB/free 26 kB
+2012-12-24 19:44:34.291 I: device/memory/dalvik/size 6855 kB/allocated 4202 kB/free 2653 kB
+2012-12-24 19:44:34.599 I: device/memory/available 21239 kB
+2012-12-24 20:36:53.664 I: device/background-data/enabled true
+2012-12-24 20:36:53.799 I: device/memory private_dirty=5496kB pss=7334kB shared_dirty=11788kB
+2012-12-24 20:44:33.850 I: device/memory processes=28 total=251505
+2012-12-24 20:44:33.875 I: device/battery level=100% health=2 plugged=0
+2012-12-24 20:44:33.888 I: device/memory/system/available 74.79MB (24.00MB) lowMemory=false
+2012-12-24 20:44:33.902 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 20:44:33.908 I: device/memory/native/size 7352 kB/allocated 7331 kB/free 20 kB
+2012-12-24 20:44:33.913 I: device/memory/dalvik/size 6855 kB/allocated 4237 kB/free 2618 kB
+2012-12-24 20:44:33.918 I: device/memory/available 21198 kB
+2012-12-24 21:36:54.691 I: device/background-data/enabled true
+2012-12-24 21:36:54.792 I: device/memory private_dirty=5528kB pss=7366kB shared_dirty=11788kB
+2012-12-24 21:44:35.975 I: device/memory processes=28 total=252158
+2012-12-24 21:44:36.033 I: device/battery level=100% health=2 plugged=0
+2012-12-24 21:44:36.071 I: device/memory/system/available 73.98MB (24.00MB) lowMemory=false
+2012-12-24 21:44:36.096 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 21:44:36.101 I: device/memory/native/size 7352 kB/allocated 7334 kB/free 17 kB
+2012-12-24 21:44:36.227 I: device/memory/dalvik/size 6855 kB/allocated 4272 kB/free 2583 kB
+2012-12-24 21:44:36.241 I: device/memory/available 21160 kB
+2012-12-24 22:36:55.725 I: device/background-data/enabled true
+2012-12-24 22:40:02.890 I: device/memory private_dirty=5556kB pss=7394kB shared_dirty=11788kB
+2012-12-24 22:50:27.103 I: device/memory processes=28 total=252060
+2012-12-24 22:50:27.109 I: device/battery level=100% health=2 plugged=0
+2012-12-24 22:50:27.125 I: device/memory/system/available 74.22MB (24.00MB) lowMemory=false
+2012-12-24 22:50:27.139 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 22:50:27.145 I: device/memory/native/size 7352 kB/allocated 7336 kB/free 15 kB
+2012-12-24 22:50:27.151 I: device/memory/dalvik/size 6855 kB/allocated 4307 kB/free 2548 kB
+2012-12-24 22:50:27.156 I: device/memory/available 21123 kB
+2012-12-24 23:36:54.730 I: device/background-data/enabled true
+2012-12-24 23:40:32.887 I: device/memory private_dirty=5628kB pss=7657kB shared_dirty=11780kB
+2012-12-24 23:44:38.314 I: device/memory processes=25 total=243029
+2012-12-24 23:44:38.361 I: device/battery level=100% health=2 plugged=0
+2012-12-24 23:44:38.397 I: device/memory/system/available 83.10MB (24.00MB) lowMemory=false
+2012-12-24 23:44:38.510 I: device/memory/max 32768 kB (~32 MB)
+2012-12-24 23:50:38.734 I: device/memory/native/size 7352 kB/allocated 7337 kB/free 14 kB
+2012-12-24 23:50:38.741 I: device/memory/dalvik/size 6855 kB/allocated 3939 kB/free 2916 kB
+2012-12-24 23:50:38.747 I: device/memory/available 21490 kB
+2012-12-25 00:00:00.036 I: ==== logfile level=3 tz=0 ====
+2012-12-25 00:36:54.643 I: device/background-data/enabled true
+2012-12-25 00:36:54.707 I: device/memory private_dirty=5688kB pss=7808kB shared_dirty=11776kB
+2012-12-25 00:44:38.998 I: device/memory processes=25 total=243191
+2012-12-25 00:44:39.051 I: device/battery level=100% health=2 plugged=0
+2012-12-25 00:44:39.080 I: device/memory/system/available 83.05MB (24.00MB) lowMemory=false
+2012-12-25 00:44:39.115 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 00:44:39.154 I: device/memory/native/size 7448 kB/allocated 7343 kB/free 104 kB
+2012-12-25 00:44:39.438 I: device/memory/dalvik/size 6919 kB/allocated 4053 kB/free 2866 kB
+2012-12-25 00:51:09.776 I: device/memory/available 21371 kB
+2012-12-25 01:36:54.818 I: device/background-data/enabled true
+2012-12-25 01:41:35.895 I: forcefullsync/wl/acquire
+2012-12-25 01:41:35.933 I: sync/time_since_last_sync: 32000s
+2012-12-25 01:41:35.988 I: device/memory private_dirty=5696kB pss=7836kB shared_dirty=11776kB
+2012-12-25 01:41:36.100 I: forcefullsync/wl/release
+2012-12-25 01:44:42.372 I: device/memory processes=25 total=243251
+2012-12-25 01:44:42.448 I: device/battery level=100% health=2 plugged=0
+2012-12-25 01:44:42.479 I: device/memory/system/available 83.80MB (24.00MB) lowMemory=false
+2012-12-25 01:44:42.550 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 01:44:42.562 I: device/memory/native/size 7448 kB/allocated 7346 kB/free 101 kB
+2012-12-25 01:51:39.742 I: device/memory/dalvik/size 6919 kB/allocated 4122 kB/free 2797 kB
+2012-12-25 01:51:39.748 I: device/memory/available 21298 kB
+2012-12-25 02:36:54.642 I: device/background-data/enabled true
+2012-12-25 02:36:54.680 I: forcefullsync/wl/acquire
+2012-12-25 02:36:54.685 I: sync/time_since_last_sync: 35319s
+2012-12-25 02:36:54.730 I: forcefullsync/wl/release
+2012-12-25 02:36:54.736 I: device/memory private_dirty=5716kB pss=8019kB shared_dirty=11776kB
+2012-12-25 02:44:42.920 I: device/memory processes=23 total=181212
+2012-12-25 02:44:42.983 I: device/battery level=100% health=2 plugged=0
+2012-12-25 02:44:43.054 I: device/memory/system/available 140MB (24.00MB) lowMemory=false
+2012-12-25 02:44:43.080 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 02:44:43.096 I: device/memory/native/size 7448 kB/allocated 7349 kB/free 98 kB
+2012-12-25 02:44:43.101 I: device/memory/dalvik/size 6919 kB/allocated 4163 kB/free 2756 kB
+2012-12-25 02:44:43.112 I: device/memory/available 21255 kB
+2012-12-25 03:36:55.610 I: device/background-data/enabled true
+2012-12-25 03:42:37.710 I: forcefullsync/wl/acquire
+2012-12-25 03:42:37.715 I: sync/time_since_last_sync: 39262s
+2012-12-25 03:42:37.752 I: device/memory private_dirty=5724kB pss=8027kB shared_dirty=11776kB
+2012-12-25 03:42:37.759 I: forcefullsync/wl/release
+2012-12-25 03:44:44.760 I: device/memory processes=23 total=181869
+2012-12-25 03:44:44.772 I: device/battery level=100% health=2 plugged=0
+2012-12-25 03:44:44.802 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 03:44:44.841 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 03:44:44.885 I: device/memory/native/size 7448 kB/allocated 7355 kB/free 92 kB
+2012-12-25 03:44:44.900 I: device/memory/dalvik/size 6919 kB/allocated 4203 kB/free 2716 kB
+2012-12-25 03:44:44.904 I: device/memory/available 21208 kB
+2012-12-25 04:00:00.533 I: app/alarm/msgsdb/backup
+2012-12-25 04:02:47.679 I: app/backup/wl/acquire
+2012-12-25 04:02:47.699 I: msgstore/backupdb/beforeclose/list msgstore.db 8192
+2012-12-25 04:02:47.703 I: msgstore/backupdb/beforeclose/list wa.db 7168
+2012-12-25 04:02:47.715 I: msgstore/backupdb/afterclose/list msgstore.db 8192
+2012-12-25 04:02:47.720 I: msgstore/backupdb/afterclose/list wa.db 7168
+2012-12-25 04:02:47.724 I: msgstore/backup
+2012-12-25 04:02:47.802 I: msgstore/backup/createdir
+2012-12-25 04:02:47.844 I: msgstore/backup/size 8192
+2012-12-25 04:02:48.064 I: msgstore/backup/to msgstore.db.crypt
+2012-12-25 04:02:48.257 I: msgstore/backup | time spent: 524
+2012-12-25 04:02:48.264 I: msgstore/checkdb
+2012-12-25 04:02:48.269 I: msgstore/checkdb/list msgstore.db 8192
+2012-12-25 04:02:48.274 I: msgstore/checkdb/list wa.db 7168
+2012-12-25 04:02:48.286 I: msgstore/checkdb/version 1
+2012-12-25 04:02:48.292 I: msgstore/getwritabledb/exists
+2012-12-25 04:02:48.313 I: msgstore/resetstatements
+2012-12-25 04:02:48.353 I: app/backup/wl/release
+2012-12-25 04:36:53.693 I: device/background-data/enabled true
+2012-12-25 04:36:53.735 I: forcefullsync/wl/acquire
+2012-12-25 04:36:53.740 I: sync/time_since_last_sync: 42518s
+2012-12-25 04:36:53.795 I: forcefullsync/wl/release
+2012-12-25 04:36:53.814 I: device/memory private_dirty=5812kB pss=8259kB shared_dirty=11776kB
+2012-12-25 04:43:09.250 I: device/memory processes=23 total=182160
+2012-12-25 04:43:09.340 I: device/battery level=100% health=2 plugged=0
+2012-12-25 04:44:44.693 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 04:44:44.707 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 04:44:44.713 I: device/memory/native/size 7360 kB/allocated 7352 kB/free 7 kB
+2012-12-25 04:44:44.719 I: device/memory/dalvik/size 7111 kB/allocated 4136 kB/free 2975 kB
+2012-12-25 04:44:44.724 I: device/memory/available 21278 kB
+2012-12-25 05:36:54.688 I: device/background-data/enabled true
+2012-12-25 05:36:54.735 I: forcefullsync/wl/acquire
+2012-12-25 05:36:54.741 I: sync/time_since_last_sync: 46119s
+2012-12-25 05:36:54.785 I: forcefullsync/wl/release
+2012-12-25 05:36:54.815 I: device/memory private_dirty=5716kB pss=8163kB shared_dirty=11776kB
+2012-12-25 05:44:46.799 I: device/memory processes=23 total=182340
+2012-12-25 05:44:46.934 I: device/battery level=100% health=2 plugged=0
+2012-12-25 05:44:46.962 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 05:44:47.022 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 05:44:47.041 I: device/memory/native/size 7364 kB/allocated 7358 kB/free 5 kB
+2012-12-25 05:44:47.053 I: device/memory/dalvik/size 7111 kB/allocated 4178 kB/free 2933 kB
+2012-12-25 05:44:47.059 I: device/memory/available 21230 kB
+2012-12-25 06:36:55.676 I: device/background-data/enabled true
+2012-12-25 06:44:10.710 I: forcefullsync/wl/acquire
+2012-12-25 06:44:10.715 I: sync/time_since_last_sync: 50155s
+2012-12-25 06:44:10.741 I: device/memory private_dirty=5716kB pss=8163kB shared_dirty=11776kB
+2012-12-25 06:44:10.763 I: forcefullsync/wl/release
+2012-12-25 06:44:48.365 I: device/memory processes=23 total=181448
+2012-12-25 06:44:48.390 I: device/battery level=100% health=2 plugged=0
+2012-12-25 06:44:48.424 I: device/memory/system/available 140MB (24.00MB) lowMemory=false
+2012-12-25 06:44:48.471 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 06:44:48.483 I: device/memory/native/size 7364 kB/allocated 7361 kB/free 2 kB
+2012-12-25 06:44:48.556 I: device/memory/dalvik/size 7111 kB/allocated 4219 kB/free 2892 kB
+2012-12-25 06:54:15.725 I: device/memory/available 21187 kB
+2012-12-25 07:36:54.688 I: device/background-data/enabled true
+2012-12-25 07:36:54.736 I: forcefullsync/wl/acquire
+2012-12-25 07:36:54.741 I: sync/time_since_last_sync: 53319s
+2012-12-25 07:36:54.784 I: forcefullsync/wl/release
+2012-12-25 07:36:54.817 I: device/memory private_dirty=5732kB pss=8179kB shared_dirty=11776kB
+2012-12-25 07:44:50.345 I: device/memory processes=23 total=182298
+2012-12-25 07:44:50.473 I: device/battery level=100% health=2 plugged=0
+2012-12-25 07:44:50.589 I: device/memory/system/available 140MB (24.00MB) lowMemory=false
+2012-12-25 07:44:50.645 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 07:44:50.666 I: device/memory/native/size 7372 kB/allocated 7367 kB/free 4 kB
+2012-12-25 07:44:50.671 I: device/memory/dalvik/size 7111 kB/allocated 4260 kB/free 2851 kB
+2012-12-25 07:44:50.729 I: device/memory/available 21140 kB
+2012-12-25 08:36:55.685 I: device/background-data/enabled true
+2012-12-25 08:44:50.670 I: forcefullsync/wl/acquire
+2012-12-25 08:44:50.675 I: sync/time_since_last_sync: 57395s
+2012-12-25 08:44:50.722 I: device/memory private_dirty=5744kB pss=8191kB shared_dirty=11776kB
+2012-12-25 08:44:50.728 I: forcefullsync/wl/release
+2012-12-25 08:44:51.794 I: device/memory processes=23 total=180863
+2012-12-25 08:44:51.805 I: device/battery level=100% health=2 plugged=0
+2012-12-25 08:44:51.851 I: device/memory/system/available 140MB (24.00MB) lowMemory=false
+2012-12-25 08:44:51.875 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 08:44:51.931 I: device/memory/native/size 7376 kB/allocated 7373 kB/free 2 kB
+2012-12-25 08:44:51.936 I: device/memory/dalvik/size 7111 kB/allocated 4301 kB/free 2810 kB
+2012-12-25 08:44:52.249 I: device/memory/available 21093 kB
+2012-12-25 09:35:36.667 I: device/background-data/enabled true
+2012-12-25 09:35:36.750 I: forcefullsync/wl/acquire
+2012-12-25 09:35:36.761 I: sync/time_since_last_sync: 60441s
+2012-12-25 09:35:36.784 I: device/memory private_dirty=5760kB pss=8207kB shared_dirty=11776kB
+2012-12-25 09:35:36.797 I: forcefullsync/wl/release
+2012-12-25 09:44:52.980 I: device/memory processes=23 total=182194
+2012-12-25 09:44:53.019 I: device/battery level=100% health=2 plugged=0
+2012-12-25 09:44:53.057 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 09:44:53.092 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 09:44:53.096 I: device/memory/native/size 7384 kB/allocated 7379 kB/free 4 kB
+2012-12-25 09:44:53.113 I: device/memory/dalvik/size 7111 kB/allocated 4342 kB/free 2769 kB
+2012-12-25 09:44:53.122 I: device/memory/available 21046 kB
+2012-12-25 10:05:51.641 I: app/syncs/indiv/total 1
+2012-12-25 10:36:07.639 I: device/background-data/enabled true
+2012-12-25 10:36:07.719 I: forcefullsync/wl/acquire
+2012-12-25 10:36:07.724 I: sync/time_since_last_sync: 64072s
+2012-12-25 10:36:07.762 I: device/memory private_dirty=5820kB pss=8267kB shared_dirty=11776kB
+2012-12-25 10:36:07.769 I: forcefullsync/wl/release
+2012-12-25 10:36:54.283 I: device/memory processes=23 total=182177
+2012-12-25 10:36:54.288 I: device/battery level=100% health=2 plugged=0
+2012-12-25 10:36:54.300 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 10:36:54.311 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 10:36:54.316 I: device/memory/native/size 7388 kB/allocated 7386 kB/free 1 kB
+2012-12-25 10:36:54.321 I: device/memory/dalvik/size 7111 kB/allocated 4410 kB/free 2700 kB
+2012-12-25 10:36:54.325 I: device/memory/available 20970 kB
+2012-12-25 11:36:38.063 I: device/background-data/enabled true
+2012-12-25 11:36:38.423 I: forcefullsync/wl/acquire
+2012-12-25 11:36:38.428 I: sync/time_since_last_sync: 67703s
+2012-12-25 11:36:38.482 I: forcefullsync/wl/release
+2012-12-25 11:36:38.552 I: device/memory private_dirty=5856kB pss=8303kB shared_dirty=11776kB
+2012-12-25 11:44:57.409 I: device/memory processes=23 total=182501
+2012-12-25 11:44:57.495 I: device/battery level=100% health=2 plugged=0
+2012-12-25 11:44:57.526 I: device/memory/system/available 139MB (24.00MB) lowMemory=false
+2012-12-25 11:44:57.565 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 11:44:57.571 I: device/memory/native/size 7392 kB/allocated 7388 kB/free 3 kB
+2012-12-25 11:44:57.611 I: device/memory/dalvik/size 7111 kB/allocated 4451 kB/free 2660 kB
+2012-12-25 11:44:57.618 I: device/memory/available 20927 kB
+2012-12-25 12:36:54.694 I: device/background-data/enabled true
+2012-12-25 12:36:54.815 I: forcefullsync/wl/acquire
+2012-12-25 12:36:54.900 I: sync/time_since_last_sync: 71319s
+2012-12-25 12:37:11.910 I: forcefullsync/wl/release
+2012-12-25 12:44:58.800 I: device/memory private_dirty=5896kB pss=8338kB shared_dirty=11776kB
+2012-12-25 12:45:00.867 I: device/memory processes=24 total=186736
+2012-12-25 12:45:01.014 I: device/battery level=100% health=2 plugged=0
+2012-12-25 12:45:01.199 I: device/memory/system/available 136MB (24.00MB) lowMemory=false
+2012-12-25 12:45:01.223 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 12:45:01.521 I: device/memory/native/size 7400 kB/allocated 7388 kB/free 11 kB
+2012-12-25 12:47:16.754 I: device/memory/dalvik/size 7111 kB/allocated 4083 kB/free 3028 kB
+2012-12-25 12:47:16.760 I: device/memory/available 21295 kB
+2012-12-25 13:36:54.695 I: device/background-data/enabled true
+2012-12-25 13:36:54.745 I: forcefullsync/wl/acquire
+2012-12-25 13:36:54.751 I: sync/time_since_last_sync: 74919s
+2012-12-25 13:36:54.795 I: forcefullsync/wl/release
+2012-12-25 13:36:54.831 I: device/memory private_dirty=5812kB pss=8254kB shared_dirty=11776kB
+2012-12-25 13:45:02.586 I: device/memory processes=24 total=187549
+2012-12-25 13:45:02.716 I: device/battery level=100% health=2 plugged=0
+2012-12-25 13:45:02.754 I: device/memory/system/available 136MB (24.00MB) lowMemory=false
+2012-12-25 13:45:02.786 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 13:45:02.792 I: device/memory/native/size 7396 kB/allocated 7390 kB/free 5 kB
+2012-12-25 13:45:03.062 I: device/memory/dalvik/size 7111 kB/allocated 4125 kB/free 2986 kB
+2012-12-25 13:45:03.094 I: device/memory/available 21251 kB
+2012-12-25 14:36:55.725 I: device/background-data/enabled true
+2012-12-25 14:38:11.798 I: forcefullsync/wl/acquire
+2012-12-25 14:38:11.804 I: sync/time_since_last_sync: 78596s
+2012-12-25 14:38:11.854 I: forcefullsync/wl/release
+2012-12-25 14:38:11.886 I: device/memory private_dirty=5824kB pss=8266kB shared_dirty=11776kB
+2012-12-25 14:45:03.625 I: device/memory processes=24 total=186801
+2012-12-25 14:45:03.664 I: device/battery level=100% health=2 plugged=0
+2012-12-25 14:45:03.705 I: device/memory/system/available 136MB (24.00MB) lowMemory=false
+2012-12-25 14:45:03.841 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 14:45:03.853 I: device/memory/native/size 7400 kB/allocated 7396 kB/free 3 kB
+2012-12-25 14:45:03.875 I: device/memory/dalvik/size 7111 kB/allocated 4167 kB/free 2944 kB
+2012-12-25 14:45:04.048 I: device/memory/available 21203 kB
+2012-12-25 15:36:53.675 I: device/background-data/enabled true
+2012-12-25 15:36:53.736 I: forcefullsync/wl/acquire
+2012-12-25 15:36:53.773 I: sync/time_since_last_sync: 82118s
+2012-12-25 15:36:53.805 I: forcefullsync/wl/release
+2012-12-25 15:36:53.838 I: device/memory private_dirty=5828kB pss=8270kB shared_dirty=11776kB
+2012-12-25 15:45:03.708 I: device/memory processes=24 total=187696
+2012-12-25 15:45:03.715 I: device/battery level=100% health=2 plugged=0
+2012-12-25 15:45:03.728 I: device/memory/system/available 135MB (24.00MB) lowMemory=false
+2012-12-25 15:45:03.743 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 15:45:03.748 I: device/memory/native/size 7404 kB/allocated 7399 kB/free 4 kB
+2012-12-25 15:45:03.754 I: device/memory/dalvik/size 7111 kB/allocated 4208 kB/free 2903 kB
+2012-12-25 15:45:03.760 I: device/memory/available 21159 kB
+2012-12-25 16:36:55.739 I: device/background-data/enabled true
+2012-12-25 16:39:12.792 I: forcefullsync/wl/acquire
+2012-12-25 16:39:12.798 I: sync/time_since_last_sync: 85857s
+2012-12-25 16:39:12.844 I: forcefullsync/wl/release
+2012-12-25 16:39:12.869 I: device/memory private_dirty=5828kB pss=8270kB shared_dirty=11776kB
+2012-12-25 16:45:05.654 I: device/memory processes=24 total=186612
+2012-12-25 16:45:05.676 I: device/battery level=100% health=2 plugged=0
+2012-12-25 16:45:05.711 I: device/memory/system/available 136MB (24.00MB) lowMemory=false
+2012-12-25 16:45:05.769 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 16:45:05.785 I: device/memory/native/size 7404 kB/allocated 7401 kB/free 2 kB
+2012-12-25 16:45:05.791 I: device/memory/dalvik/size 7111 kB/allocated 4249 kB/free 2862 kB
+2012-12-25 16:45:05.817 I: device/memory/available 21116 kB
+2012-12-25 17:36:55.673 I: device/background-data/enabled true
+2012-12-25 17:39:43.693 I: forcefullsync/wl/acquire
+2012-12-25 17:39:43.697 I: sync/time_since_last_sync: 89488s
+2012-12-25 17:39:43.968 I: forcefullsync/wl/release
+2012-12-25 17:45:07.096 I: device/memory private_dirty=5832kB pss=8271kB shared_dirty=11776kB
+2012-12-25 17:59:54.511 I: device/memory processes=24 total=188231
+2012-12-25 17:59:54.717 I: device/battery level=100% health=2 plugged=0
+2012-12-25 18:09:58.775 I: device/memory/system/available 135MB (24.00MB) lowMemory=false
+2012-12-25 18:09:59.067 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 18:09:59.196 I: device/memory/native/size 7408 kB/allocated 7404 kB/free 3 kB
+2012-12-25 18:09:59.267 I: device/memory/dalvik/size 7111 kB/allocated 4290 kB/free 2821 kB
+2012-12-25 18:09:59.342 I: device/memory/available 21072 kB
+2012-12-25 18:36:55.675 I: device/background-data/enabled true
+2012-12-25 18:39:58.680 I: forcefullsync/wl/acquire
+2012-12-25 18:39:58.685 I: sync/time_since_last_sync: 93103s
+2012-12-25 18:39:58.729 I: device/memory private_dirty=5836kB pss=8275kB shared_dirty=11776kB
+2012-12-25 18:39:58.736 I: forcefullsync/wl/release
+2012-12-25 18:45:07.717 I: device/memory processes=24 total=187567
+2012-12-25 18:45:07.748 I: device/battery level=100% health=2 plugged=0
+2012-12-25 18:45:07.784 I: device/memory/system/available 136MB (24.00MB) lowMemory=false
+2012-12-25 18:45:07.795 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 18:45:07.799 I: device/memory/native/size 7412 kB/allocated 7407 kB/free 4 kB
+2012-12-25 18:45:07.804 I: device/memory/dalvik/size 7111 kB/allocated 4331 kB/free 2780 kB
+2012-12-25 18:45:07.808 I: device/memory/available 21028 kB
+2012-12-25 19:36:54.640 I: device/background-data/enabled true
+2012-12-25 19:36:54.690 I: forcefullsync/wl/acquire
+2012-12-25 19:36:54.694 I: sync/time_since_last_sync: 96519s
+2012-12-25 19:36:54.770 I: forcefullsync/wl/release
+2012-12-25 19:36:54.777 I: device/memory private_dirty=5840kB pss=8279kB shared_dirty=11776kB
+2012-12-25 19:45:09.203 I: device/memory processes=24 total=188722
+2012-12-25 19:45:09.208 I: device/battery level=100% health=2 plugged=0
+2012-12-25 19:45:09.219 I: device/memory/system/available 134MB (24.00MB) lowMemory=false
+2012-12-25 19:45:09.230 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 19:45:09.234 I: device/memory/native/size 7412 kB/allocated 7409 kB/free 2 kB
+2012-12-25 19:45:09.239 I: device/memory/dalvik/size 7111 kB/allocated 4372 kB/free 2739 kB
+2012-12-25 19:45:09.243 I: device/memory/available 20985 kB
+2012-12-25 20:36:53.757 I: device/background-data/enabled true
+2012-12-25 20:36:53.815 I: forcefullsync/wl/acquire
+2012-12-25 20:36:53.820 I: sync/time_since_last_sync: 100118s
+2012-12-25 20:36:53.874 I: forcefullsync/wl/release
+2012-12-25 20:36:53.900 I: device/memory private_dirty=5868kB pss=8307kB shared_dirty=11776kB
+2012-12-25 20:41:17.357 I: device/memory processes=24 total=188186
+2012-12-25 20:45:09.681 I: device/battery level=100% health=2 plugged=0
+2012-12-25 20:45:09.703 I: device/memory/system/available 135MB (24.00MB) lowMemory=false
+2012-12-25 20:45:09.747 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 20:45:09.753 I: device/memory/native/size 7416 kB/allocated 7412 kB/free 3 kB
+2012-12-25 20:45:09.758 I: device/memory/dalvik/size 7111 kB/allocated 4413 kB/free 2698 kB
+2012-12-25 20:45:09.764 I: device/memory/available 20941 kB
+2012-12-25 21:07:19.726 I: xmpp/service/network/notice type=wifi state=connected connected=true available=true
+2012-12-25 21:07:19.891 I: xmpp/service/network/active type=wifi state=connected connected=true available=true
+2012-12-25 21:07:19.896 I: xmpp/service/network/switch old=-1 new=1
+2012-12-25 21:07:19.933 I: xmpp/service/network/up
+2012-12-25 21:07:19.967 I: xmpp/connection/recv/connect
+2012-12-25 21:07:20.274 I: xmpp/connection/connect
+2012-12-25 21:07:20.436 I: xmpp/connection/socket/connecting c2.whatsapp.net./50.22.231.37:5222
+2012-12-25 21:07:22.761 I: xmpp/connection/socket/connected
+2012-12-25 21:07:22.864 I: xmpp/connection/login
+2012-12-25 21:07:22.869 I: xmpp/service/login/timeout/start
+2012-12-25 21:07:27.772 I: xmpp/service/login/timeout/stop
+2012-12-25 21:07:27.777 I: xmpp/connection/write/blocklist/get
+2012-12-25 21:07:27.797 I: xmpp/connection/write/client_config/get
+2012-12-25 21:07:27.828 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-25 21:07:27.894 E: onDirty/table size:0
+2012-12-25 21:07:27.916 I: xmpp/writer/recv/connected
+2012-12-25 21:07:27.900 I: xmpp/reader/read/offline-complete count=0
+2012-12-25 21:07:27.900 I: xmpp/service/keepalive/stop
+2012-12-25 21:07:27.900 I: msgqueuer/stop
+2012-12-25 21:07:28.025 I: xmpp/service/logout-timer/enable
+2012-12-25 21:07:28.036 I: xmpp/service/back_off/reset
+2012-12-25 21:07:28.071 I: xmpp/service/ping/reset
+2012-12-25 21:07:28.076 I: xmpp/service/ping/reset
+2012-12-25 21:07:28.080 I: mediaautodownload/updatestate false
+2012-12-25 21:07:28.080 I: msgstore/unsent 0
+2012-12-25 21:07:28.126 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-25 21:07:28.171 I: app/unsent/count 0
+2012-12-25 21:07:29.152 I: xmpp/reader/read/blocklist/clear
+2012-12-25 21:07:29.183 I: xmpp/service/ping/reset
+2012-12-25 21:07:29.236 I: xmpp/reader/read/client_config
+2012-12-25 21:07:29.311 I: xmpp/service/ping/reset
+2012-12-25 21:07:29.411 I: c2dm/registration/saved APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-25 21:07:38.682 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:07:39.225 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:07:51.000 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:08:59.010 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:09:00.218 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:09:10.757 I: ==== logfile level=3 tz=0 ====
+2012-12-25 21:09:10.773 I: ==== logfile version=2.8.9108 level=3 tz=0 ====
+2012-12-25 21:09:10.785 I: app/permissions/com.whatsapp w=true
+2012-12-25 21:09:10.789 I: app/permissions/files w=true
+2012-12-25 21:09:10.796 I: app/permissions/Logs w=true
+2012-12-25 21:09:10.800 I: app/permissions/databases w=true
+2012-12-25 21:09:10.826 I: app/create/notmain com.whatsapp:contacts
+2012-12-25 21:09:10.830 I: app/oncreate/not_main_process/stop_here..
+2012-12-25 21:09:11.078 I: dbinfo/getWAContactsForAccountSync #2 | time spent:103
+2012-12-25 21:09:11.183 I: account_sync/performsync: type=com.whatsapp
+2012-12-25 21:09:11.439 I: dbinfo/deleteContactsFromTable/skip
+2012-12-25 21:09:11.529 I: account_sync/add_contact/batch_size:0 | time spent:593
+2012-12-25 21:09:16.611 I: observer back on
+2012-12-25 21:09:18.670 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:09:37.716 I: contact/observer/onchange/version=18 saved=18
+2012-12-25 21:35:42.695 I: device/background-data/enabled true
+2012-12-25 21:35:42.755 I: forcefullsync/wl/acquire
+2012-12-25 21:35:42.767 I: sync/time_since_last_sync: 103647s
+2012-12-25 21:35:42.856 I: device/memory private_dirty=5948kB pss=8067kB shared_dirty=11776kB
+2012-12-25 21:35:43.222 I: sync/start...(count=0)
+2012-12-25 21:35:43.314 I: sync/syncAll
+2012-12-25 21:35:43.601 I: dbinfo/getAllDBContactsForSync #7 (7)  | time spent:282
+2012-12-25 21:35:43.798 I: sync/syncAll/all_contacts_list/count 7
+2012-12-25 21:35:44.547 I: device/memory processes=24 total=195731
+2012-12-25 21:35:44.556 I: sync/syncAll/cursor/count 4
+2012-12-25 21:35:44.563 I: device/battery level=100% health=2 plugged=0
+2012-12-25 21:35:44.578 I: sync/syncAll/extra_sync_list/count 0
+2012-12-25 21:35:44.585 I: sync/syncAll/update_list/count 0
+2012-12-25 21:35:44.592 I: sync/syncAll/remove_list/count 3
+2012-12-25 21:35:44.592 I: device/memory/system/available 132MB (24.00MB) lowMemory=false
+2012-12-25 21:35:44.611 I: sync/syncAll/keep_list/count 4
+2012-12-25 21:35:44.627 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 21:35:44.639 I: device/memory/native/size 7440 kB/allocated 7436 kB/free 3 kB
+2012-12-25 21:35:44.644 I: device/memory/dalvik/size 7111 kB/allocated 4152 kB/free 2959 kB
+2012-12-25 21:35:44.634 I: httpinterface/syncexisting/sync_batch:3
+2012-12-25 21:35:44.650 I: device/memory/available 21178 kB
+2012-12-25 21:36:23.497 I: httpinterface/syncexisting/finished - time spent:38844 total:1 iswa:0
+2012-12-25 21:36:23.510 I: dbinfo/getUnknownContacts #0 | time spent:7
+2012-12-25 21:36:23.515 I: dbinfo/manager/deleteContacts/count 3
+2012-12-25 21:36:23.535 I: dbinfo/deleteContactsFromTable/time:14/count 3
+2012-12-25 21:36:23.546 I: sync/syncAll - time spent:40227
+2012-12-25 21:36:23.574 I: app/sync/run
+2012-12-25 21:36:23.591 I: contact/observer/setversion=18 (prev=18)
+2012-12-25 21:36:23.615 I: dbinfo/getWAContactsForAccountSync #2 | time spent:12
+2012-12-25 21:36:23.631 I: account_sync/performsync: type=com.whatsapp
+2012-12-25 21:36:23.689 I: forcefullsync/wl/release
+2012-12-25 21:36:23.713 I: dbinfo/deleteContactsFromTable/skip
+2012-12-25 21:36:23.718 I: account_sync/add_contact/batch_size:0 | time spent:127
+2012-12-25 21:37:41.198 I: observer back on
+2012-12-25 22:35:31.044 I: device/background-data/enabled true
+2012-12-25 22:35:31.107 I: device/memory private_dirty=6484kB pss=8941kB shared_dirty=11636kB
+2012-12-25 22:35:41.412 I: device/memory processes=24 total=199125
+2012-12-25 22:35:41.417 I: device/battery level=99% health=2 plugged=0
+2012-12-25 22:35:41.429 I: device/memory/system/available 129MB (24.00MB) lowMemory=false
+2012-12-25 22:35:41.440 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 22:35:41.446 I: device/memory/native/size 7552 kB/allocated 7476 kB/free 76 kB
+2012-12-25 22:35:41.451 I: device/memory/dalvik/size 7367 kB/allocated 4547 kB/free 2820 kB
+2012-12-25 22:35:41.455 I: device/memory/available 20744 kB
+2012-12-25 22:57:42.310 I: xmpp/service/logout-timer/timeout
+2012-12-25 22:57:42.328 I: msgqueuer/start
+2012-12-25 22:57:42.333 I: xmpp/writer/write/logout | time: 12
+2012-12-25 23:02:27.687 I: xmpp/connection/socket/close
+2012-12-25 23:02:27.709 I: xmpp/reader/io-error java.io.EOFException
+2012-12-25 23:02:27.716 I: xmpp/reader/error
+2012-12-25 23:02:27.722 I: xmpp/connection/socket/close
+2012-12-25 23:02:27.783 I: xmpp/service/logout-timer/disable
+2012-12-25 23:02:27.783 I: msgqueuer/start
+2012-12-25 23:02:27.800 I: xmpp/service/retry/21369
+2012-12-25 23:02:27.828 I: network/info
+NetworkInfo: type: mobile[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 0, subtype: 8
+NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 1, subtype: 0
+NetworkInfo: type: mobile_mms[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 2, subtype: 8
+NetworkInfo: type: mobile_supl[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 3, subtype: 8
+NetworkInfo: type: mobile_dun[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 4, subtype: 8
+NetworkInfo: type: mobile_hipri[HSDPA], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, type: 5, subtype: 8
+2012-12-25 23:02:49.182 I: xmpp/connection/recv/connect
+2012-12-25 23:02:49.187 I: xmpp/connection/connect
+2012-12-25 23:02:49.201 I: xmpp/connection/socket/connecting c2.whatsapp.net./173.192.219.140:5222
+2012-12-25 23:03:02.663 I: xmpp/connection/socket/connected
+2012-12-25 23:03:02.683 I: xmpp/connection/login
+2012-12-25 23:03:02.689 I: xmpp/service/login/timeout/start
+2012-12-25 23:03:04.540 I: xmpp/service/login/timeout/stop
+2012-12-25 23:03:04.546 I: xmpp/connection/write/client_config/get
+2012-12-25 23:03:04.558 I: account/expiration Tue Dec 24 13:24:24 GMT 2013
+2012-12-25 23:03:04.582 I: xmpp/service/keepalive/stop
+2012-12-25 23:03:04.588 I: xmpp/writer/recv/connected
+2012-12-25 23:03:04.600 I: msgqueuer/stop
+2012-12-25 23:03:04.594 E: onDirty/table size:0
+2012-12-25 23:03:04.612 I: xmpp/service/logout-timer/enable
+2012-12-25 23:03:04.616 I: xmpp/service/back_off/reset
+2012-12-25 23:03:04.624 I: xmpp/reader/read/offline-complete count=0
+2012-12-25 23:03:04.642 I: xmpp/service/ping/reset
+2012-12-25 23:03:04.647 I: xmpp/service/ping/reset
+2012-12-25 23:03:04.651 I: mediaautodownload/updatestate false
+2012-12-25 23:03:04.639 I: msgstore/unsent 0
+2012-12-25 23:03:04.662 I: app/unsent/count 0
+2012-12-25 23:03:04.667 I: msgstore/getNotDownloadedImageMessages/size:0
+2012-12-25 23:03:06.865 I: xmpp/reader/read/client_config
+2012-12-25 23:03:06.871 I: xmpp/service/ping/reset
+2012-12-25 23:03:06.904 I: c2dm/registration/saved APA91bEo_kdBvcHm-jyu9vXSuvz5UkgaF33AGzShgeXo1A_n_naqTFgmoCAg4DLEqfUw5Vm-EKOeUFEvnPbJed10DurkVMJFoDos7zUt4AmN1QJpeRYNU53yj1cQIcmkpXxWoh7QPJXo
+2012-12-25 23:18:04.697 I: xmpp/reader/read/ping
+2012-12-25 23:18:04.717 I: xmpp/service/ping/reset
+2012-12-25 23:18:04.728 I: xmpp/writer/write/pong 1356477486-ping
+2012-12-25 23:33:06.547 I: xmpp/reader/read/ping
+2012-12-25 23:33:06.564 I: xmpp/service/ping/reset
+2012-12-25 23:33:06.577 I: xmpp/writer/write/pong 1356478388-ping
+2012-12-25 23:35:40.731 I: device/background-data/enabled true
+2012-12-25 23:35:40.849 I: device/memory private_dirty=6208kB pss=8669kB shared_dirty=11636kB
+2012-12-25 23:37:05.251 I: device/memory processes=24 total=199333
+2012-12-25 23:37:05.257 I: device/battery level=97% health=2 plugged=0
+2012-12-25 23:37:05.271 I: device/memory/system/available 129MB (24.00MB) lowMemory=false
+2012-12-25 23:37:05.285 I: device/memory/max 32768 kB (~32 MB)
+2012-12-25 23:37:05.291 I: device/memory/native/size 7552 kB/allocated 7447 kB/free 104 kB
+2012-12-25 23:37:05.297 I: device/memory/dalvik/size 7367 kB/allocated 4293 kB/free 3074 kB
+2012-12-25 23:37:05.302 I: device/memory/available 21027 kB

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="psuggest_available" value="false" />
+<string name="search_domain">.google.co.uk</string>
+<long name="search_domain_apply_time" value="1356486924872" />
+<string name="search_domain_country_code">GB</string>
+<string name="google_account">pervasivec@gmail.com</string>
+</map>

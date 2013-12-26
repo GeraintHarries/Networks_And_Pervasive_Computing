@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="metricUnits" value="false" />
+<long name="recordingTrackId" value="-1" />
+<long name="selectedTrackId" value="2" />
+<int name="autoResumeTrackCurrentRetry" value="0" />
+<boolean name="recordingTrackPaused" value="true" />
+</map>

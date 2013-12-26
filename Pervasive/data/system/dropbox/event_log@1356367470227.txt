@@ -1,0 +1,2 @@
+1356366825552,322,322,location_controller,2
+1356366838785,186,201,am_anr,1005,com.facebook.katana,835140,Broadcast of Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x10000000 cmp=com.facebook.katana/.binding.UploadManagerConnectivity (has extras) }

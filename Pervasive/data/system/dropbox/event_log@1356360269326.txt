@@ -1,0 +1,6 @@
+1356359772027,0,0,event_log_start
+1356359772027,186,200,free_storage_left,30777344,141193216,40288256
+1356359814038,322,322,system_update,512,0,-1,NULL
+1356359838932,322,322,system_update,512,0,-1,NULL
+1356359899591,186,201,am_anr,802,com.google.android.apps.plus,835140,Broadcast of Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000000 cmp=com.google.android.apps.plus/.iu.BatteryReceiver }
+1356359909591,186,201,am_anr,812,com.facebook.katana,835140,Broadcast of Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000000 cmp=com.facebook.katana/.service.vault.VaultPowerConnectionReceiver }

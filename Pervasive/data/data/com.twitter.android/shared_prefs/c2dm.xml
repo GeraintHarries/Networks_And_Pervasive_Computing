@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="reg_id">APA91bHk19IqXsZpa_wUU0AzOiCZhvKLvRZXigh7lKpCUviKslVEXJ43gNnUX1r4esogaq-3gXCDsdOw7HnNxq_5wrs1Ji9cmgmjhGT6XHlPgm5o1f00zaR90Cxcj3_G4Vs2B9ooD5H60WaNdZh4vToK3th3GHjWHw</string>
+<long name="backoff" value="20000" />
+<int name="backoff_ceil" value="0" />
+<int name="ver" value="2" />
+</map>

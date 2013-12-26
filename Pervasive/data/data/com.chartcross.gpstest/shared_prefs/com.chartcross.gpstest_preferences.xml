@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="app_usage_count" value="2" />
+<int name="scmid" value="-467712349" />
+<string name="north_reference">0</string>
+<boolean name="single_field" value="false" />
+<int name="field_one" value="2" />
+<int name="field_two" value="1" />
+<string name="datum">0</string>
+<boolean name="hidesplash" value="false" />
+<boolean name="tenths" value="false" />
+<string name="colour_scheme">4</string>
+<int name="installed-since" value="1356358531" />
+<string name="date_format">0</string>
+<string name="grid">0</string>
+<string name="speed_units">0</string>
+<float name="declination" value="-2.154727" />
+<string name="altitude_units">0</string>
+<string name="heading_device">0</string>
+<string name="orientation">0</string>
+<string name="precision">0</string>
+<boolean name="field_spacing" value="false" />
+<boolean name="usegeoid" value="true" />
+<string name="news_message">Thank you for downloading GPS Test</string>
+<int name="field_three" value="0" />
+<string name="field_text_colour">0</string>
+<boolean name="fullscreen" value="false" />
+<long name="newscmid" value="5029582911465648778" />
+<string name="heading_units">0</string>
+<string name="time_format">0</string>
+</map>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="display_images_patterns_set">noreply%5C-%5Cw%2B%40plus%5C.google%5C.com</string>
+<boolean name="allow-batch" value="true" />
+<string name="auto-advance">list</string>
+<string name="last-version-promoed">176</string>
+<string name="message-text">1.0</string>
+<string name="cache-active-notification-set"></string>
+<boolean name="pervasivec@gmail.com-cache-use-priority-inbox" value="true" />
+<string name="cache-google-accounts-synced">pervasivec@gmail.com</string>
+<boolean name="enable-notifications" value="true" />
+<string name="confirm-actions">none</string>
+<boolean name="pervasivec@gmail.com-cache-use-priority-markers" value="true" />
+</map>

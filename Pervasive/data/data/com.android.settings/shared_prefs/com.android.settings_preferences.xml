@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="allow_mock_location" value="true" />
+<boolean name="enable_adb" value="true" />
+<string name="location_gps_source">0</string>
+<boolean name="location_network" value="true" />
+<boolean name="location_gps" value="true" />
+<boolean name="adb_notify" value="true" />
+<boolean name="kill_app_longpress_back" value="true" />
+</map>

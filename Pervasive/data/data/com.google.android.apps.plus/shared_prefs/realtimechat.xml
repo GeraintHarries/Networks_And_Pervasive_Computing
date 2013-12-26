@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="c2dm_registration_id">APA91bFJfxQ5uHV5QFsNQ-qFr3tFZoL8OeYX2T3wTVqDW5nhOoBgb32iQ0kzGtsZwUMSh0QkB8K9Lad3gNstG6t9c93S1VH4qDVDfT3oDC3hzpZkGgdJ8Cw3k4Jc_243mtLvd1GVM_bhQgEuIP5nhMs7jvceorb3zD2mlzRzCWyLODFrzvAWoec</string>
+<string name="sticky_c2dm_registration_id">APA91bFJfxQ5uHV5QFsNQ-qFr3tFZoL8OeYX2T3wTVqDW5nhOoBgb32iQ0kzGtsZwUMSh0QkB8K9Lad3gNstG6t9c93S1VH4qDVDfT3oDC3hzpZkGgdJ8Cw3k4Jc_243mtLvd1GVM_bhQgEuIP5nhMs7jvceorb3zD2mlzRzCWyLODFrzvAWoec</string>
+<string name="c2dm_registration_build_version">3.3.1.40177215</string>
+<long name="c2dm_registration_time" value="1356522763178" />
+</map>

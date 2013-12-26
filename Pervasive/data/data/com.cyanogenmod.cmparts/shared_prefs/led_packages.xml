@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="android"></string>
+<string name="com.android.email"></string>
+<string name="com.android.phone"></string>
+<string name="com.google.android.gsf"></string>
+<string name="com.android.mms"></string>
+<string name="com.cyanogenmod.stats"></string>
+<string name="com.facebook.katana"></string>
+<string name="com.android.vending"></string>
+<string name="com.twitter.android"></string>
+<string name="com.skype.raider"></string>
+<string name="com.android.systemui"></string>
+<string name="com.android.providers.downloads"></string>
+<string name="com.android.bluetooth"></string>
+<string name="com.viber.voip"></string>
+<string name="com.eclipsim.gpsstatus2"></string>
+<string name="com.google.android.gm"></string>
+</map>

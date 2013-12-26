@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="pref_install_location">0</string>
+<boolean name="pref_rotation_270" value="true" />
+<boolean name="pref_rotation_90" value="true" />
+<boolean name="pref_jit_mode" value="true" />
+<string name="pref_compcache_size">0</string>
+<string name="pref_ringlock_style">1</string>
+<string name="pref_heapsize">32m</string>
+<string name="pref_overscroll_effect">1</string>
+<boolean name="pref_rotation_0" value="true" />
+<boolean name="pref_move_all_apps" value="false" />
+<boolean name="power_dialog_prompt" value="true" />
+<boolean name="pref_volbtn_music_controls" value="true" />
+<boolean name="pref_trackball_wake" value="true" />
+<string name="pref_overscroll_weight">5</string>
+<boolean name="pref_use_dithering" value="true" />
+<string name="pref_in_call_style">4</string>
+<string name="pref_scrollingcache">2</string>
+<string name="pref_lockscreen_style">5</string>
+<string name="pref_render_effect">0</string>
+<string name="pref_rotary_style">1</string>
+</map>

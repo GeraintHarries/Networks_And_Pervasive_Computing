@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="firstboot" value="false" />
+<boolean name="checkedin" value="false" />
+<boolean name="optin" value="true" />
+</map>

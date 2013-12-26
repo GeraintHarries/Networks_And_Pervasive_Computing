@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="/fb_android/kvm/last_username">pervasivec@gmail.com</string>
+<string name="/fb_android/kvm/machine_id">lPfRUPPc4rt0VEaQs-jt_jti</string>
+<string name="/fb_android/kvm/100004868412110:lastTimeFindFriendsShown">1811358</string>
+<string name="/fb_android/kvm/seen_employee">false</string>
+<long name="/shared/device_id_generate_timestamp" value="1355937277234" />
+<int name="/fb_android/notifications/unseen_notifications" value="0" />
+<boolean name="/messenger/c2dm/fb_server_registered" value="false" />
+<long name="/messenger/c2dm/fb_server_last_register_time" value="1355939149315" />
+<string name="/shared/device_id">4fe11a52-06aa-46f7-a328-261f1bcc5b91</string>
+<long name="/messages/ui_counters/privacy_tooltip_counter/timestamp" value="1356269673345" />
+<long name="/config/gk/last_fetch_time_ms" value="1356347670029" />
+<long name="/config/qe/last_fetch_time_ms" value="1356347676932" />
+<string name="/fb_android/uvm/vault:upload_state">end_vault_upload</string>
+<string name="/fb_android/kvm/100004868412110:numTimesFindFriendsShown">3</string>
+<long name="/feed/fetch/last_response" value="1356270242062" />
+<string name="/fb_android/kvm/last_login_time">1355937700804</string>
+<string name="/fb_android/uvm/active_session_info">kvm_null_flag</string>
+<long name="/notifications/last_stale_client_notification_fetch_time_ms" value="1355937690531" />
+<string name="/messenger/c2dm/token">APA91bHuOYcAYuJ4ZX8feMXnsv4NRjVz7lQ602m8YLtpuxJQ6nemYtQzVD2sYi3YvH1XjCcGrUbRiy33iWIflOlF9HaO0-PMqiw8F-7k5rwv8srC024xyi7DdNc3hlj64uii_HVtV1EG</string>
+<string name="/config/qe/last_fetch_locale">en_GB</string>
+<string name="/fb_android/kvm/100004868412110:findFriendsLegalBarShown">true</string>
+<int name="/messages/ui_counters/privacy_tooltip_counter/count" value="0" />
+<string name="/messenger/c2dm/service_type">GCM</string>
+<long name="/mqtt/retry_interval" value="10000" />
+<int name="/config/gk/version" value="8" />
+<string name="/fb_android/kvm/last_logout_time">1356347988801</string>
+<string name="/fb_android/kvm/100004868412110:findFriendsConsentApproved">true</string>
+<long name="/messenger/c2dm/last_change_time" value="1355937686298" />
+<string name="/fb_android/kvm/LAST_FG_SIGNAL_TIME">1356269557052</string>
+<long name="/fb_android/notifications/last_notification_update_time" value="1356269561968" />
+<string name="/fb_android/kvm/last_run_build">91499</string>
+<string name="/messenger/c2dm/last_service_attempt_type">GCM</string>
+<string name="/messenger/c2dm/token_owner">100004868412110</string>
+<long name="/messenger/c2dm/last_register_time" value="1355937686298" />
+<string name="/fb_android/uvm/ringtone">true</string>
+<int name="/_meta_/prefs_version" value="2" />
+<long name="/notifications/last_updated_time" value="1356269601326" />
+<string name="/fb_android/kvm/hashed_uid">41c9196bada3ad76d12aaed0f8ad45b5073c2203</string>
+<string name="/feed/fetch/active_type">top_stories</string>
+<int name="/auth/me_user_version" value="2" />
+</map>

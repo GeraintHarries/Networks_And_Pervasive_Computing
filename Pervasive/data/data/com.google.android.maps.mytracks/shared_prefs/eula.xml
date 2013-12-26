@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="showCheckUnits" value="false" />
+<boolean name="eula.google_mobile_tos_accepted" value="true" />
+<boolean name="showWelcome" value="false" />
+</map>

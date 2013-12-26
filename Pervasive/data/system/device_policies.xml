@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<policies>
+<admin name="com.android.email/com.android.email.SecurityPolicy$PolicyAdmin">
+<policies flags="27" />
+</admin>
+</policies>

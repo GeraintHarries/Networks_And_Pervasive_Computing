@@ -1,0 +1,188 @@
+ol li
+{
+list-style-type: lower-roman;
+}
+
+.tag {
+	/* Some standard .tag settings: starting point */
+	text-align:center;
+	float:left;
+	background-color:#BAA378;
+	font-family: monospace;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:none;
+	padding: 2px 4px;
+	padding-left:40px;;
+	padding-right: 40px;
+	margin-top:30px;;
+	margin-bottom: 30px;
+	color:#eef;
+
+	/* Shadow under text */
+	-webkit-text-shadow: rgba(0,0,0,0.2) 2px 0, rgba(0,0,0,0.2) 0 2px, rgba(255,255,255,0.2) -2px 0, rgba(255,255,255,0.2) 0 -2px, rgba(0,0,0,0.2) 2px 2px, rgba(255,255,255,0.2) -2px -2px; 
+	-moz-text-shadow: rgba(0,0,0,0.2) 2px 0, rgba(0,0,0,0.2) 0 2px, rgba(255,255,255,0.2) -2px 0, rgba(255,255,255,0.2) 0 -2px, rgba(0,0,0,0.2) 2px 2px, rgba(255,255,255,0.2) -2px -2px; 
+	-o-text-shadow: rgba(0,0,0,0.2) 2px 0, rgba(0,0,0,0.2) 0 2px, rgba(255,255,255,0.2) -2px 0, rgba(255,255,255,0.2) 0 -2px, rgba(0,0,0,0.2) 2px 2px, rgba(255,255,255,0.2) -2px -2px;
+	text-shadow: rgba(0,0,0,0.2) 2px 0, rgba(0,0,0,0.2) 0 2px, rgba(255,255,255,0.2) -2px 0, rgba(255,255,255,0.2) 0 -2px, rgba(0,0,0,0.2) 2px 2px, rgba(255,255,255,0.2) -2px -2px;
+ 
+	/* Shadow under tag */
+	-webkit-box-shadow: 0 0 10px rgb(0,0,0);
+	-moz-box-shadow: 0 0 10px rgb(0,0,0);
+	-o-box-shadow: 0 0 10px rgb(0,0,0);
+	box-shadow: 0 0 10px rgb(0,0,0);
+ 
+	/* Rotation transformation */
+	-webkit-transform: rotate(-2deg);
+	-moz-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	transform: rotate(-2deg);
+
+ 
+	/* Transition between this and :hover state */
+	-webkit-transition: -webkit-transform 0.1s ease-in;
+	-moz-transition: -moz-transform 0.1s ease-in;
+	-o-transition: -o-transform 0.1s ease-in;
+	transition: transform 0.1s ease-in;	
+}
+ 
+.tag:hover {
+	color:#fff;
+	z-index:10000;
+	
+	-webkit-box-shadow: 0 0 20px rgb(0,0,100);
+	-moz-box-shadow: 0 0 20px rgb(0,0,100);
+	-o-box-shadow: 0 0 20px rgb(0,0,100);
+	box-shadow: 0 0 10px rgb(0,0,100);	 
+	
+	-webkit-transform: rotate(3deg) scale(1.2);
+	-moz-transform: rotate(3deg) scale(1.2);
+	-o-transform: rotate(3deg) scale(1.2);
+	transform: rotate(3deg) scale(1.2);
+}
+ 
+ 
+.tag:nth-child(2n) {
+	background-color:#974f3d;
+
+ 
+	-webkit-transform: rotate(2deg);
+	-moz-transform: rotate(2deg);
+	-o-transform: rotate(2deg);
+	transform: rotate(2deg);
+}
+ 
+.tag:nth-child(4n) {
+	background-color:#B67721;
+
+ 
+	-webkit-transform: rotate(-8deg);
+	-moz-transform: rotate(-8deg);
+	-o-transform: rotate(-8deg);
+	transform: rotate(-8deg);
+}
+ 
+.tag:nth-child(5n) {
+	background-color:#663300;
+
+ 
+	-webkit-transform: rotate(-3deg);
+	-moz-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	transform: rotate(-3deg);
+}
+ 
+ 
+ 
+ 
+.tag:nth-child(2n):hover {
+	-webkit-transform: rotate(-3deg) scale(1.2);
+	-moz-transform: rotate(-3deg) scale(1.2);
+	-o-transform: rotate(-3deg) scale(1.2);
+	transform: rotate(-3deg) scale(1.2);
+}
+ 
+.tag:nth-child(4n):hover {
+	-webkit-transform: rotate(3deg) scale(1.2);
+	-moz-transform: rotate(3deg) scale(1.2);
+	-o-transform: rotate(3deg) scale(1.2);
+	transform: rotate(3deg) scale(1.2);
+}
+ 
+.tag:nth-child(5n):hover {
+	-webkit-transform: rotate(2deg) scale(1.2);
+	-moz-transform: rotate(2deg) scale(1.2);
+	-o-transform: rotate(2deg) scale(1.2);
+	transform: rotate(2deg) scale(1.2);
+}
+
+
+
+ul
+{
+list-style-type: circle;
+
+}
+
+.geolocation_data {
+  border: 5px solid orange;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+	background-color:black;
+color:orange;
+padding:10px;
+	text-align: center; 
+	  letter-spacing:0.1em;
+	  line-height:200%;
+}
+
+.footer {
+  border: 5px solid #BAA378;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+	background-color:#974f3d;
+	color:white;
+	font-weight:bold;
+	text-align: center; 
+	letter-spacing:0.1em;
+	padding: 4px;
+	font-size: 14px;
+}
+
+
+body {
+	background-image:url('bg.jpeg');
+	margin: 1px;
+	padding-left:5%;
+	padding-right:5%;
+	font-family: georgia;
+		font-size: 18px;
+		
+}
+h1,h2,h3{
+color:#000;
+text-shadow: 2px 2px 20px orange;
+             font-family: times, Times New Roman, times-roman, georgia, serif;
+		font-size: 38px;
+	        line-height: 40px;
+	        letter-spacing: -1px;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+                font-weight: 100;
+	text-align: center;
+}
+h1{
+	font-size: 48px;
+	padding-top:35px;
+	padding-bottom:10px;
+}
+
+
+a {	
+ 	color: #000;
+ 	text-decoration: underline;
+}
+
+
+img {
+	border: 0;
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="MULTIPLE_FLAG" value="false" />
+<boolean name="SENDINGFLAG" value="false" />
+<string name="MIMETYPE">text/plain</string>
+<string name="FILE_URI">file:///data/data/com.android.bluetooth/files/bluetooth_content_share.html</string>
+</map>

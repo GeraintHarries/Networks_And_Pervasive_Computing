@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<long name="timeline_tweet_0" value="282882170870198272" />
+<int name="timeline_off_0" value="0" />
+<long name="hometab_taut" value="1356270409959" />
+<long name="hometab_ft" value="1355938514963" />
+<long name="discover_prefs_last_refresh_activity" value="1355947830544" />
+<long name="discover_prefs_last_refresh_trends" value="1355947830719" />
+<int name="decider_cache_version" value="1" />
+<long name="c2dm_last_refresh." value="1356269529049" />
+<int name="c2dm_reg_enabled_for." value="181" />
+<long name="hometab_tatt" value="1356353918070" />
+<long name="discover_prefs_last_refresh_wtf" value="1355947831981" />
+<long name="discover_prefs_last_refresh" value="1355947828562" />
+</map>

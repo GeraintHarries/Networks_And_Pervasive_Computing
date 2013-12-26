@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="local_db_sync_required" value="true" />
+<boolean name="auto_update_default" value="true" />
+<string name="vending_tos_version">1.0.0</string>
+<int name="device_configuration_hash" value="-686621887" />
+<long name="MARKET_LAST_HEARTBEAT_TIMESTAMP" value="1355937218769" />
+<int name="IAB_VERSION_pervasivec%40gmail.com" value="3" />
+<int name="reconciled_version" value="4002306" />
+<int name="last_checkin_hash" value="163919944" />
+<long name="last_sync_time" value="1355936478785" />
+<string name="last_build_fingerprint">google/passion/passion:2.3.3/GRI40/102588:user/release-keys</string>
+<int name="SERVER_VERSION" value="1000" />
+<boolean name="metadata_billing_events_enabled" value="true" />
+<int name="last_system_apps_hash" value="1724616710" />
+<boolean name="metadata_comment_post_enabled" value="true" />
+<boolean name="metadata_in_app_billing_enabled" value="true" />
+<boolean name="checkin_needed" value="false" />
+<string name="cached_gl_extensions"></string>
+<boolean name="user_notified_about_auto_update" value="true" />
+<boolean name="metadata_paid_apps_enabled" value="true" />
+<boolean name="account_exists_pervasivec@gmail.com" value="true" />
+</map>

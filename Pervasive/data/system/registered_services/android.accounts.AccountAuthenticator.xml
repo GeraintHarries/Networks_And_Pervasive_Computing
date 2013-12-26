@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<services>
+<service uid="10062" type="com.skype.contacts.sync" />
+<service uid="10022" type="com.android.exchange" />
+<service uid="10028" type="com.google" />
+</services>

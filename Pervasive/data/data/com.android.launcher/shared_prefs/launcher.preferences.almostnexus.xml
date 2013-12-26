@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="swipedownActions">0</string>
+<string name="homeOrientation">2</string>
+<boolean name="notif_receiver" value="true" />
+<boolean name="uiDots" value="true" />
+<string name="drawer_style">0</string>
+<boolean name="drawerLabels" value="true" />
+<boolean name="uiNewSelectors" value="true" />
+<boolean name="uiDesktopIndicatorAutohide" value="true" />
+<int name="currentAppCatalog" value="-1" />
+<string name="screenCache">2</string>
+<string name="deletezone_style">1</string>
+<boolean name="wallpaperHack" value="true" />
+<boolean name="uiCloseAppsDockbar" value="true" />
+<boolean name="uiDockbar" value="true" />
+<boolean name="uiHideLabels" value="true" />
+<string name="desktop_transition_style">1</string>
+<boolean name="fadeDrawerLabels" value="true" />
+<string name="homeBinding">1</string>
+<boolean name="wallpaper_scrolling" value="true" />
+<boolean name="themeIcons" value="true" />
+<boolean name="drawer_navigate_catalogs" value="true" />
+<string name="main_dock_style">1</string>
+<boolean name="uiDesktopIndicator" value="true" />
+<boolean name="drawer_show_catalogs" value="true" />
+<string name="swipeupActions">0</string>
+<string name="doubletapActions">0</string>
+<boolean name="previewsNew" value="true" />
+<boolean name="drawerAnimated" value="true" />
+<string name="uiDesktopIndicatorType">1</string>
+</map>

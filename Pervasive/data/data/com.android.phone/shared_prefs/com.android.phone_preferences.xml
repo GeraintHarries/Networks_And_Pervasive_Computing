@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="button_return_home" value="true" />
+<boolean name="rotate_incall_screen" value="false" />
+<boolean name="button_black_regex" value="false" />
+<boolean name="button_hide_hold_button" value="false" />
+<string name="sip_call_options_key">SIP_ADDRESS_ONLY</string>
+<boolean name="button_vibrate_45" value="false" />
+<boolean name="button_force_touch" value="false" />
+<string name="button_voicemail_provider_key"></string>
+<string name="preferred_umts_network_mode_key">0</string>
+<string name="button_trackball_answer_timed">-1</string>
+<string name="preferred_network_mode_key">0</string>
+<boolean name="button_always_proximity" value="false" />
+<boolean name="button_left_hand" value="false" />
+<boolean name="button_screen_awake" value="false" />
+<boolean name="button_show_organ" value="false" />
+<boolean name="button_vibrate_outgoing" value="true" />
+<boolean name="button_led_notify" value="true" />
+<boolean name="button_vibrate_call_waiting" value="false" />
+<boolean name="bg_incall_screen" value="false" />
+<string name="network_selection_key"></string>
+<string name="preferred_cdma_network_mode_key">0</string>
+<boolean name="button_vibrate_hangup" value="true" />
+<string name="button_trackball_hangup_timed">-1</string>
+<string name="network_selection_name_key"></string>
+</map>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<accounts version="2" nextAuthorityId="25">
+<authority id="1" account="pervasivec@gmail.com" type="com.google" authority="com.android.calendar" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="2" account="pervasivec@gmail.com" type="com.google" authority="com.android.contacts" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="3" account="pervasivec@gmail.com" type="com.google" authority="subscribedfeeds" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="5" account="pervasivec@gmail.com" type="com.google" authority="com.google.android.gms.plus.action" enabled="false" syncable="unknown">
+<periodicSync period="86400" />
+</authority>
+<authority id="14" account="live:pervasivec" type="com.skype.contacts.sync" authority="com.android.contacts" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="16" account="pervasivec@gmail.com" type="com.google" authority="com.google.android.apps.plus.content.EsProvider" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="19" account="pervasivec@live.com" type="com.android.exchange" authority="com.android.contacts" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="20" account="pervasivec@live.com" type="com.android.exchange" authority="com.android.calendar" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="21" account="pervasivec@gmail.com" type="com.google" authority="com.google.android.apps.plus.content.EsGooglePhotoProvider" enabled="false" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="22" account="pervasivec@gmail.com" type="com.google" authority="com.google.android.apps.plus.iu.EsGoogleIuProvider" enabled="true" syncable="true">
+<periodicSync period="86400" />
+</authority>
+<authority id="23" account="pervasivec@gmail.com" type="com.google" authority="gmail-ls" enabled="false" syncable="true">
+<periodicSync period="86400" />
+</authority>
+</accounts>

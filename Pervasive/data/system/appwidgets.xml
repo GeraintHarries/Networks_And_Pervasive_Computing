@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<gs>
+<p pkg="com.android.settings" cl="com.android.settings.widget.SettingsAppWidgetProvider" />
+<p pkg="com.google.android.googlequicksearchbox" cl="com.google.android.googlequicksearchbox.SearchWidgetProvider" />
+<h pkg="com.android.launcher" id="400" />
+<g id="4" h="0" p="0" />
+<g id="5" h="0" p="1" />
+</gs>

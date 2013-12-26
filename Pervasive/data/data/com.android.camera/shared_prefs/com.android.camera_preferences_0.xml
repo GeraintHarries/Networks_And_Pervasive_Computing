@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="pref_local_version_key" value="1" />
+<string name="pref_camera_picturesize_key">2560x1712</string>
+</map>

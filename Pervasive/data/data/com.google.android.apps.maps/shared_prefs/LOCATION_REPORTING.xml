@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="lastPosition">BHWgYHmAtXLzpGgAgPka8OIwqpKCtP6fRpN109MBnWE=</string>
+<int name="deviceTag" value="1118817844" />
+<long name="locationReportingIntentTimstamp" value="1356519644697" />
+<float name="lastAccuracy" value="63.005" />
+<boolean name="locationHistoryEnabled" value="false" />
+<long name="lastTimestamp" value="1356522653128" />
+<long name="lastIntentProcessedTimestamp" value="1356522804176" />
+</map>

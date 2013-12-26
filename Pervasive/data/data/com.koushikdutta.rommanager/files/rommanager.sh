@@ -1,0 +1,1 @@
+ cat /mnt/sdcard/Android/data/com.koushikdutta.rommanager/cache/213666339 > /sdcard/clockworkmod/recovery-update.zip ; cat /mnt/sdcard/Android/data/com.koushikdutta.rommanager/cache/213666339 > /sdcard/update.zip ;if [ -d /data/media/clockworkmod ] ; then chmod 777 /data/media/clockworkmod ; fi ; 
